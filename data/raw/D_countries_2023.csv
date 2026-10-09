@@ -1,0 +1,409 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,All Population,2,DALYs (Disability-Adjusted Life Years),82,Greece,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.5495860750436422,0.7427009224132545,0.4113185153823887
+1,All Population,2,DALYs (Disability-Adjusted Life Years),105,Antigua and Barbuda,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,3.221393049938481,3.9057750451890216,2.6278183190435827
+1,All Population,2,DALYs (Disability-Adjusted Life Years),84,Ireland,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.2409183398276803,0.32704581273786,0.1787701211135339
+1,All Population,2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,6.370636399964726,11.531817158413778,2.786042675328233
+1,All Population,2,DALYs (Disability-Adjusted Life Years),36,Kazakhstan,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,1.421954868061974,1.7031348018929504,1.180788835714776
+1,All Population,2,DALYs (Disability-Adjusted Life Years),128,Guatemala,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,3.3340385367797856,3.943468233784252,2.83579382219801
+1,All Population,2,DALYs (Disability-Adjusted Life Years),59,Latvia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,2.419464166307421,3.019129209893981,2.0005266369015193
+1,All Population,2,DALYs (Disability-Adjusted Life Years),86,Italy,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.3334683300975775,0.43712053491384106,0.2570819265009069
+1,All Population,2,DALYs (Disability-Adjusted Life Years),94,Switzerland,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.4395565619747693,0.5572072944303523,0.3476817497281627
+1,All Population,2,DALYs (Disability-Adjusted Life Years),15,Myanmar,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,84.8463172147636,168.55475942327413,30.805565176368287
+1,All Population,2,DALYs (Disability-Adjusted Life Years),75,Austria,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.36844526948613615,0.48356810814503864,0.27804169514865845
+1,All Population,2,DALYs (Disability-Adjusted Life Years),6,China,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,17.086455916823006,33.57363665927158,6.137881795780506
+1,All Population,2,DALYs (Disability-Adjusted Life Years),83,Iceland,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.2882683171603501,0.3774343688828367,0.21801920533433725
+1,All Population,2,DALYs (Disability-Adjusted Life Years),130,Mexico,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,3.1657291683583373,3.6735439014099014,2.716628602555759
+1,All Population,2,DALYs (Disability-Adjusted Life Years),151,Qatar,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,16.637106531403955,32.92552634817705,5.882473677914698
+1,All Population,2,DALYs (Disability-Adjusted Life Years),61,Republic of Moldova,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,1.7757141489567654,2.1195310500381077,1.4626406823913427
+1,All Population,2,DALYs (Disability-Adjusted Life Years),163,India,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,117.41882788265751,235.38163180019416,44.084967981231
+1,All Population,2,DALYs (Disability-Adjusted Life Years),97,Argentina,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,7.201771983137535,8.920924997429736,5.708472394024003
+1,All Population,2,DALYs (Disability-Adjusted Life Years),72,New Zealand,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.20955812544607694,0.326600194136357,0.14266858858033846
+1,All Population,2,DALYs (Disability-Adjusted Life Years),186,Seychelles,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,26.492632457913068,50.85624764082211,11.181557769036646
+1,All Population,2,DALYs (Disability-Adjusted Life Years),117,Saint Vincent and the Grenadines,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,11.578928447370036,15.328426485582858,8.716470317615677
+1,All Population,2,DALYs (Disability-Adjusted Life Years),305,Bermuda,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.7249487537485649,0.9807926938296497,0.5287704310698964
+1,All Population,2,DALYs (Disability-Adjusted Life Years),25,Micronesia (Federated States of),3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,161.70963881565777,297.2137400531487,60.464189612730266
+1,All Population,2,DALYs (Disability-Adjusted Life Years),106,Bahamas,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,1.3156119918153608,1.6698421453732943,1.0355945756782023
+1,All Population,2,DALYs (Disability-Adjusted Life Years),175,Burundi,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,106.75100289619718,193.2946777077997,45.19522637248859
+1,All Population,2,DALYs (Disability-Adjusted Life Years),48,Hungary,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.5466936080734301,0.6640282925311967,0.44160664032174224
+1,All Population,2,DALYs (Disability-Adjusted Life Years),152,Saudi Arabia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,7.099465060398744,13.971377279215906,2.699227718441485
+1,All Population,2,DALYs (Disability-Adjusted Life Years),140,Bahrain,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,13.367694349251174,27.792738223333366,4.867321131351944
+1,All Population,2,DALYs (Disability-Adjusted Life Years),179,Ethiopia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,193.43931099920266,357.34052106982887,77.73708348103385
+1,All Population,2,DALYs (Disability-Adjusted Life Years),168,Angola,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,310.80203015677887,578.0314200838634,122.10021127986109
+1,All Population,2,DALYs (Disability-Adjusted Life Years),153,Syrian Arab Republic,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,18.55910738628526,36.31938203058124,6.829764046198126
+1,All Population,2,DALYs (Disability-Adjusted Life Years),189,United Republic of Tanzania,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,288.82593036483456,535.6239258319317,119.48555682864877
+1,All Population,2,DALYs (Disability-Adjusted Life Years),119,Trinidad and Tobago,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,1.5715905329301547,1.936221108807898,1.2693943156765684
+1,All Population,2,DALYs (Disability-Adjusted Life Years),108,Belize,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.895601761759732,1.1634067919254623,0.665984252321269
+1,All Population,2,DALYs (Disability-Adjusted Life Years),141,Egypt,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,24.09559773346746,49.409259727586225,8.536613469515473
+1,All Population,2,DALYs (Disability-Adjusted Life Years),71,Australia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.37117492216455733,0.48893082096992224,0.29392399305648526
+1,All Population,2,DALYs (Disability-Adjusted Life Years),393,Saint Kitts and Nevis,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,2.400582844924926,2.9130776557298126,1.9833557059178555
+1,All Population,2,DALYs (Disability-Adjusted Life Years),77,Cyprus,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,7.749700356162083,15.52350820735167,2.8154443559788414
+1,All Population,2,DALYs (Disability-Adjusted Life Years),177,Djibouti,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,287.133092101181,522.8943864726823,114.47723954792055
+1,All Population,2,DALYs (Disability-Adjusted Life Years),14,Maldives,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,21.081620986062635,41.240749734501584,7.84592642937508
+1,All Population,2,DALYs (Disability-Adjusted Life Years),50,Montenegro,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,6.07324904820984,11.839881608370423,2.4595418721808953
+1,All Population,2,DALYs (Disability-Adjusted Life Years),95,United Kingdom,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.38828526426917864,0.508124858528527,0.30526437220528607
+1,All Population,2,DALYs (Disability-Adjusted Life Years),37,Kyrgyzstan,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,2.992565457870334,3.594498425666915,2.4169605978315873
+1,All Population,2,DALYs (Disability-Adjusted Life Years),26,Papua New Guinea,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,331.25910052746957,631.3276108381023,127.45699151708202
+1,All Population,2,DALYs (Disability-Adjusted Life Years),210,Liberia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,484.90850826706617,959.4980665691568,171.55081958002154
+1,All Population,2,DALYs (Disability-Adjusted Life Years),187,Somalia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,201.9166048514137,382.85397420010526,81.41367917895522
+1,All Population,2,DALYs (Disability-Adjusted Life Years),8,Taiwan,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.49768406991177433,0.6544583169201141,0.38328465279500584
+1,All Population,2,DALYs (Disability-Adjusted Life Years),320,Cook Islands,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,100.67311233265897,187.29224482048141,36.782623228553796
+1,All Population,2,DALYs (Disability-Adjusted Life Years),39,Tajikistan,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,10.781681829483695,19.58619606350085,5.039535517257702
+1,All Population,2,DALYs (Disability-Adjusted Life Years),142,Iran (Islamic Republic of),3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,18.042412128836858,35.053214324767616,6.85267363257207
+1,All Population,2,DALYs (Disability-Adjusted Life Years),211,Mali,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,312.6053906967368,608.6513968445756,118.77405653358535
+1,All Population,2,DALYs (Disability-Adjusted Life Years),129,Honduras,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,14.863385429043111,27.547029958801964,6.4256191444091515
+1,All Population,2,DALYs (Disability-Adjusted Life Years),110,Dominica,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,79.92586540620664,149.62120249216818,32.98705505875247
+1,All Population,2,DALYs (Disability-Adjusted Life Years),49,North Macedonia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,5.838701600823394,10.913908810876526,2.0233641186671947
+1,All Population,2,DALYs (Disability-Adjusted Life Years),28,Solomon Islands,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,208.2874736151145,368.15368630324286,80.85098379237013
+1,All Population,2,DALYs (Disability-Adjusted Life Years),422,United States Virgin Islands,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,17.330607199056942,22.901718372124293,13.206520809032115
+1,All Population,2,DALYs (Disability-Adjusted Life Years),118,Suriname,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,24.568462711337503,49.15693388354782,9.34488084264153
+1,All Population,2,DALYs (Disability-Adjusted Life Years),98,Chile,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,2.1889572262301065,2.5472773235136255,1.8366632443639987
+1,All Population,2,DALYs (Disability-Adjusted Life Years),52,Romania,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.3302806889106459,0.40457379552289724,0.25990661234638107
+1,All Population,2,DALYs (Disability-Adjusted Life Years),413,Tokelau,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,78.22495072725783,148.07721040426978,31.32841869296555
+1,All Population,2,DALYs (Disability-Adjusted Life Years),85,Israel,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.26328132395162135,0.35178316256761794,0.1906004316652944
+1,All Population,2,DALYs (Disability-Adjusted Life Years),74,Andorra,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,13.182441330940222,26.836667680983087,4.775153050337521
+1,All Population,2,DALYs (Disability-Adjusted Life Years),93,Sweden,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.22394093259713044,0.3084008390657067,0.15986702635083527
+1,All Population,2,DALYs (Disability-Adjusted Life Years),27,Samoa,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,24.217148557205753,45.11711715917929,9.655472185063617
+1,All Population,2,DALYs (Disability-Adjusted Life Years),212,Mauritania,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,220.32588035286057,431.3137728386834,80.6397153960635
+1,All Population,2,DALYs (Disability-Adjusted Life Years),200,Benin,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,97.51655386767575,195.44567315625443,37.84476068671645
+1,All Population,2,DALYs (Disability-Adjusted Life Years),351,Guam,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,1.5220772081838538,2.0176663657743727,1.165231065974137
+1,All Population,2,DALYs (Disability-Adjusted Life Years),99,Uruguay,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,6.28440698898209,7.696586332807685,5.198638229440553
+1,All Population,2,DALYs (Disability-Adjusted Life Years),143,Iraq,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,24.329536207488683,48.27670942190652,9.00147608680023
+1,All Population,2,DALYs (Disability-Adjusted Life Years),144,Jordan,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,21.41155781189379,43.909491587289956,7.628492452933323
+1,All Population,2,DALYs (Disability-Adjusted Life Years),68,Republic of Korea,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,17.39901711501111,34.337223781441836,6.486378248331457
+1,All Population,2,DALYs (Disability-Adjusted Life Years),19,Timor-Leste,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,46.60074829258168,91.06473351903088,16.911760672133695
+1,All Population,2,DALYs (Disability-Adjusted Life Years),205,Côte d'Ivoire,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,200.79433118684307,391.2083503666744,75.3681008431622
+1,All Population,2,DALYs (Disability-Adjusted Life Years),214,Nigeria,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,125.84371188472899,248.5959623042829,46.16400626094509
+1,All Population,2,DALYs (Disability-Adjusted Life Years),102,United States of America,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.8830130698392071,1.0992856425143231,0.720044629797278
+1,All Population,2,DALYs (Disability-Adjusted Life Years),44,Bosnia and Herzegovina,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,6.129850863410605,11.793437871736426,2.3795925846022006
+1,All Population,2,DALYs (Disability-Adjusted Life Years),164,Nepal,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,105.64078567049961,207.19278764500865,37.83154610572811
+1,All Population,2,DALYs (Disability-Adjusted Life Years),111,Dominican Republic,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,92.9944848098355,176.55265664655735,34.78230759323541
+1,All Population,2,DALYs (Disability-Adjusted Life Years),17,Sri Lanka,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,8.971021015570537,17.631852520800873,3.7020660175325752
+1,All Population,2,DALYs (Disability-Adjusted Life Years),180,Kenya,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,134.63480761245285,250.13530645980583,54.48981262536573
+1,All Population,2,DALYs (Disability-Adjusted Life Years),201,Burkina Faso,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,112.03942706429889,215.6076940408584,46.38758267437726
+1,All Population,2,DALYs (Disability-Adjusted Life Years),367,Monaco,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,5.516307898699781,10.771809703713318,1.9132827795847005
+1,All Population,2,DALYs (Disability-Adjusted Life Years),160,Afghanistan,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,44.29106049427807,86.26541833831257,16.31116250376189
+1,All Population,2,DALYs (Disability-Adjusted Life Years),298,American Samoa,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,107.85647623613869,203.92629365786996,40.71817331877728
+1,All Population,2,DALYs (Disability-Adjusted Life Years),154,Tunisia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,23.049130545442438,46.44240416140542,8.520178020953571
+1,All Population,2,DALYs (Disability-Adjusted Life Years),155,Türkiye,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,11.131102093582022,22.067989937833644,4.172142573197674
+1,All Population,2,DALYs (Disability-Adjusted Life Years),126,Costa Rica,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,5.839241390119722,7.087726847875245,4.7569271684052215
+1,All Population,2,DALYs (Disability-Adjusted Life Years),132,Panama,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,5.1124672777218745,6.0765455107716155,4.150705697706959
+1,All Population,2,DALYs (Disability-Adjusted Life Years),139,Algeria,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,30.93030448220043,60.08503137355412,11.128842800215514
+1,All Population,2,DALYs (Disability-Adjusted Life Years),16,Philippines,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,99.45347426974763,198.61950081239152,37.718409351893385
+1,All Population,2,DALYs (Disability-Adjusted Life Years),196,South Africa,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,205.30015613411337,397.8022599144839,80.91814938195431
+1,All Population,2,DALYs (Disability-Adjusted Life Years),146,Lebanon,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,37.83035185993529,78.20316877845693,12.841855698630805
+1,All Population,2,DALYs (Disability-Adjusted Life Years),213,Niger,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,38.24029263726002,71.86913082526684,16.147793592687883
+1,All Population,2,DALYs (Disability-Adjusted Life Years),10,Cambodia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,10.972076902794521,22.40409118237595,4.166747864578364
+1,All Population,2,DALYs (Disability-Adjusted Life Years),46,Croatia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.1706959090389182,0.22288385771685512,0.13524169031008562
+1,All Population,2,DALYs (Disability-Adjusted Life Years),63,Ukraine,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.9582669255505717,1.229224743398136,0.7392006816382432
+1,All Population,2,DALYs (Disability-Adjusted Life Years),184,Mozambique,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,363.95874536590753,697.5125129212486,145.77597122330337
+1,All Population,2,DALYs (Disability-Adjusted Life Years),7,Democratic People's Republic of Korea,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,22.42587317094096,46.38888494212749,7.785620718169684
+1,All Population,2,DALYs (Disability-Adjusted Life Years),162,Bhutan,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,185.62477297156397,346.7018958383245,71.08274489391658
+1,All Population,2,DALYs (Disability-Adjusted Life Years),202,Cameroon,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,244.2222678664369,470.85546323909176,90.7281799078034
+1,All Population,2,DALYs (Disability-Adjusted Life Years),112,Grenada,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,8.848709174490661,10.786772882361653,6.895887844899856
+1,All Population,2,DALYs (Disability-Adjusted Life Years),107,Barbados,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,2.208428830277149,2.6376354809463263,1.7808268827782658
+1,All Population,2,DALYs (Disability-Adjusted Life Years),198,Zimbabwe,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,187.4713492301578,360.4331693888985,71.18016684174744
+1,All Population,2,DALYs (Disability-Adjusted Life Years),33,Armenia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,1.4778512254804534,1.7456870170222658,1.18531532383469
+1,All Population,2,DALYs (Disability-Adjusted Life Years),87,Luxembourg,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.4156375861411498,0.5291471497574075,0.32104440253950856
+1,All Population,2,DALYs (Disability-Adjusted Life Years),101,Canada,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.5498391352286438,0.6884273182894779,0.4495721892837155
+1,All Population,2,DALYs (Disability-Adjusted Life Years),349,Greenland,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,9.573109554635987,18.749010255586906,3.7574561423562995
+1,All Population,2,DALYs (Disability-Adjusted Life Years),60,Lithuania,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,1.1039534602451213,1.3508507112158106,0.9051313806908412
+1,All Population,2,DALYs (Disability-Adjusted Life Years),181,Madagascar,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,399.2436883444015,742.0318847277514,158.57619593661298
+1,All Population,2,DALYs (Disability-Adjusted Life Years),51,Poland,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.29021583350312696,0.3919519304669516,0.2219960459194368
+1,All Population,2,DALYs (Disability-Adjusted Life Years),165,Pakistan,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,107.97141319585599,215.61134417222254,40.60699103933459
+1,All Population,2,DALYs (Disability-Adjusted Life Years),38,Mongolia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,50.15531525039077,98.4181122592037,20.00361722719427
+1,All Population,2,DALYs (Disability-Adjusted Life Years),35,Georgia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,1.4320516350625248,1.77318167817666,1.1592482105020985
+1,All Population,2,DALYs (Disability-Adjusted Life Years),204,Chad,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,202.55188133688893,399.58646878558505,75.92900929380257
+1,All Population,2,DALYs (Disability-Adjusted Life Years),121,Bolivia (Plurinational State of),3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,194.23568242715743,382.81538059257537,73.89803020743918
+1,All Population,2,DALYs (Disability-Adjusted Life Years),396,San Marino,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,8.007481434810332,15.250633196729131,3.007414121891597
+1,All Population,2,DALYs (Disability-Adjusted Life Years),369,Nauru,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,188.67943981156736,351.7287333349247,76.00676917244513
+1,All Population,2,DALYs (Disability-Adjusted Life Years),76,Belgium,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.3322963329525323,0.42222204057769647,0.25131687833124366
+1,All Population,2,DALYs (Disability-Adjusted Life Years),54,Slovakia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,3.667328899346457,6.947713982596228,1.4905864066557473
+1,All Population,2,DALYs (Disability-Adjusted Life Years),114,Haiti,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,257.73734936068473,504.5854719468117,99.65816238908431
+1,All Population,2,DALYs (Disability-Adjusted Life Years),176,Comoros,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,183.53278313753003,340.84776754195815,73.68621296722495
+1,All Population,2,DALYs (Disability-Adjusted Life Years),29,Tonga,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,74.18022177722229,139.80904360516317,26.967070339665185
+1,All Population,2,DALYs (Disability-Adjusted Life Years),156,United Arab Emirates,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,7.683255978327509,14.852128975870658,2.9559134577555284
+1,All Population,2,DALYs (Disability-Adjusted Life Years),171,Democratic Republic of the Congo,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,381.11227175225645,704.866721115017,157.25528075029644
+1,All Population,2,DALYs (Disability-Adjusted Life Years),18,Thailand,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,15.873508933082292,31.07998763479927,6.245843235176264
+1,All Population,2,DALYs (Disability-Adjusted Life Years),191,Zambia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,362.87599078699986,664.2805720106769,146.6263211474816
+1,All Population,2,DALYs (Disability-Adjusted Life Years),20,Viet Nam,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,35.5696829371893,70.82284480341023,12.977379666757264
+1,All Population,2,DALYs (Disability-Adjusted Life Years),62,Russian Federation,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,1.4400783836396658,1.7424835477272327,1.2087600749393472
+1,All Population,2,DALYs (Disability-Adjusted Life Years),109,Cuba,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,1.7148610397986037,2.1053953022888474,1.372401828659884
+1,All Population,2,DALYs (Disability-Adjusted Life Years),30,Vanuatu,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,130.93071189600997,246.40449436279096,52.0613953416173
+1,All Population,2,DALYs (Disability-Adjusted Life Years),41,Uzbekistan,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,1.2001872689327298,1.4684345040742623,0.9702121633748234
+1,All Population,2,DALYs (Disability-Adjusted Life Years),416,Tuvalu,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,43.41198923112908,80.84521603721477,18.699944300852575
+1,All Population,2,DALYs (Disability-Adjusted Life Years),88,Malta,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.1240560823858316,0.21009436229807774,0.08115223127543367
+1,All Population,2,DALYs (Disability-Adjusted Life Years),178,Eritrea,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,140.99172693120158,254.03527414406744,57.22326491350031
+1,All Population,2,DALYs (Disability-Adjusted Life Years),148,Morocco,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,168.08575005293696,307.2017277187558,61.97839865784246
+1,All Population,2,DALYs (Disability-Adjusted Life Years),173,Gabon,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,299.7033706492621,574.0198870033889,111.76367889896655
+1,All Population,2,DALYs (Disability-Adjusted Life Years),43,Albania,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,7.5535132187679075,14.501811751461798,2.775696818656962
+1,All Population,2,DALYs (Disability-Adjusted Life Years),376,Northern Mariana Islands,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,108.96712859369096,200.68031239715498,41.00085931581718
+1,All Population,2,DALYs (Disability-Adjusted Life Years),92,Spain,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.4732207671922282,0.6078649830151173,0.3766060606993899
+1,All Population,2,DALYs (Disability-Adjusted Life Years),78,Denmark,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.4845917207166271,0.6356510879035647,0.38077974585352725
+1,All Population,2,DALYs (Disability-Adjusted Life Years),170,Congo,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,260.8092113577562,498.44164864342935,104.39057445179753
+1,All Population,2,DALYs (Disability-Adjusted Life Years),206,Gambia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,197.30651181779282,380.1344428300841,77.63768877706357
+1,All Population,2,DALYs (Disability-Adjusted Life Years),150,Oman,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,9.275953573337928,16.206329848875935,4.103987094554808
+1,All Population,2,DALYs (Disability-Adjusted Life Years),145,Kuwait,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.8228520963738523,1.0408232755719664,0.6370967971377911
+1,All Population,2,DALYs (Disability-Adjusted Life Years),34,Azerbaijan,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,31.032414350684096,57.709336635210036,13.107519087504569
+1,All Population,2,DALYs (Disability-Adjusted Life Years),45,Bulgaria,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.27146266070637753,0.3392913755810844,0.21751858392618895
+1,All Population,2,DALYs (Disability-Adjusted Life Years),161,Bangladesh,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,140.1999079444694,272.11938975245573,53.164090275703515
+1,All Population,2,DALYs (Disability-Adjusted Life Years),183,Mauritius,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,1.4355877558006764,1.7537519145373763,1.1675419101309148
+1,All Population,2,DALYs (Disability-Adjusted Life Years),190,Uganda,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,347.4543205143222,681.8716845533262,130.9736150886715
+1,All Population,2,DALYs (Disability-Adjusted Life Years),53,Serbia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,5.666499236221837,10.729734595219687,2.0739506665221854
+1,All Population,2,DALYs (Disability-Adjusted Life Years),131,Nicaragua,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,17.594616874930733,34.53425408013757,6.665662181180438
+1,All Population,2,DALYs (Disability-Adjusted Life Years),22,Fiji,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,295.6561745366127,565.1294260410318,111.7006093380712
+1,All Population,2,DALYs (Disability-Adjusted Life Years),136,Paraguay,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,135.7776885793554,254.9254243977552,52.020351669767436
+1,All Population,2,DALYs (Disability-Adjusted Life Years),123,Peru,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,54.69729634479837,105.83945908109384,21.15359160184549
+1,All Population,2,DALYs (Disability-Adjusted Life Years),172,Equatorial Guinea,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,430.13077715085427,820.935822768225,172.26963604714956
+1,All Population,2,DALYs (Disability-Adjusted Life Years),47,Czechia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.4088157739698118,0.5184033927939048,0.31769803935081414
+1,All Population,2,DALYs (Disability-Adjusted Life Years),195,Namibia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,202.95495221874143,380.32513010484587,76.18144287290407
+1,All Population,2,DALYs (Disability-Adjusted Life Years),193,Botswana,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,144.3793372964051,273.4055477840126,56.792198840633894
+1,All Population,2,DALYs (Disability-Adjusted Life Years),80,France,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.3075637843407526,0.3984367256790354,0.23805910600809826
+1,All Population,2,DALYs (Disability-Adjusted Life Years),67,Japan,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.4331429194635325,0.560774711370019,0.32311159784841365
+1,All Population,2,DALYs (Disability-Adjusted Life Years),197,Eswatini,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,232.84467819499733,442.26696561433727,86.44614109223181
+1,All Population,2,DALYs (Disability-Adjusted Life Years),69,Singapore,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.6635932250296744,0.8349878938297383,0.5231931180687199
+1,All Population,2,DALYs (Disability-Adjusted Life Years),127,El Salvador,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,14.651316878627513,27.77900054869382,5.858105810155164
+1,All Population,2,DALYs (Disability-Adjusted Life Years),58,Estonia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,1.9238463657851155,2.3719932644688693,1.5429308673656785
+1,All Population,2,DALYs (Disability-Adjusted Life Years),125,Colombia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,7.43128138430111,8.426270891601398,6.4094061464193635
+1,All Population,2,DALYs (Disability-Adjusted Life Years),116,Saint Lucia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,4.764735354571059,5.673139132315432,3.9193855881012976
+1,All Population,2,DALYs (Disability-Adjusted Life Years),215,Sao Tome and Principe,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,83.62880448274844,164.11632959602719,32.182995511192885
+1,All Population,2,DALYs (Disability-Adjusted Life Years),182,Malawi,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,223.19406254690514,437.53731509586305,89.67754282158873
+1,All Population,2,DALYs (Disability-Adjusted Life Years),207,Ghana,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,176.82629903871484,353.4960968070348,68.67647166416899
+1,All Population,2,DALYs (Disability-Adjusted Life Years),157,Yemen,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,57.466527679535,115.11927219704499,20.72248964850593
+1,All Population,2,DALYs (Disability-Adjusted Life Years),11,Indonesia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,149.646884169647,282.32991452422334,59.46734011050658
+1,All Population,2,DALYs (Disability-Adjusted Life Years),185,Rwanda,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,175.1144142310557,331.86079554499355,70.94984404165403
+1,All Population,2,DALYs (Disability-Adjusted Life Years),90,Norway,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.6903481538526846,0.9714431589143327,0.4954865014230718
+1,All Population,2,DALYs (Disability-Adjusted Life Years),522,Sudan,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,96.05568122669062,206.02113891544255,33.91066540318368
+1,All Population,2,DALYs (Disability-Adjusted Life Years),24,Marshall Islands,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,122.16648365918914,230.22977564525846,47.72550590393241
+1,All Population,2,DALYs (Disability-Adjusted Life Years),113,Guyana,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,3.7952990756784453,5.0734529744640735,2.8472386018961373
+1,All Population,2,DALYs (Disability-Adjusted Life Years),89,Netherlands,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.30463070330166664,0.39038669515666585,0.23755731082987172
+1,All Population,2,DALYs (Disability-Adjusted Life Years),208,Guinea,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,237.24206430345086,461.0085076342462,89.07587051940025
+1,All Population,2,DALYs (Disability-Adjusted Life Years),385,Puerto Rico,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,3.654363728055392,4.427640250545797,3.0691470461223846
+1,All Population,2,DALYs (Disability-Adjusted Life Years),40,Turkmenistan,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,1.3307250205506092,1.7361957159131642,1.0223765376834721
+1,All Population,2,DALYs (Disability-Adjusted Life Years),169,Central African Republic,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,323.3997100451727,589.7367645324938,128.43903856985239
+1,All Population,2,DALYs (Disability-Adjusted Life Years),203,Cabo Verde,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,65.10631125047038,126.76910167253881,23.629975982402303
+1,All Population,2,DALYs (Disability-Adjusted Life Years),122,Ecuador,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,1.791470452503797,2.226121444192806,1.4864565563736662
+1,All Population,2,DALYs (Disability-Adjusted Life Years),66,Brunei Darussalam,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,21.011413933111765,41.834195073338854,8.164145193091
+1,All Population,2,DALYs (Disability-Adjusted Life Years),194,Lesotho,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,217.8712551634739,420.0716343912769,77.78738685086527
+1,All Population,2,DALYs (Disability-Adjusted Life Years),91,Portugal,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.45954218540480657,0.585290774581559,0.3494205059572652
+1,All Population,2,DALYs (Disability-Adjusted Life Years),79,Finland,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.5097765903624947,0.6351090039011151,0.41027620438894175
+1,All Population,2,DALYs (Disability-Adjusted Life Years),12,Lao People's Democratic Republic,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,47.16633178168052,91.03397951837951,17.38690351892088
+1,All Population,2,DALYs (Disability-Adjusted Life Years),133,Venezuela (Bolivarian Republic of),3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,16.84356552853215,30.13986469017014,7.398144718325096
+1,All Population,2,DALYs (Disability-Adjusted Life Years),115,Jamaica,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,3.409035216151381,4.108460382900613,2.8360069408551456
+1,All Population,2,DALYs (Disability-Adjusted Life Years),435,South Sudan,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,525.7837440910695,1011.933221451919,211.20695548018384
+1,All Population,2,DALYs (Disability-Adjusted Life Years),209,Guinea-Bissau,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,131.44561618274605,257.4965036405008,51.950638047075266
+1,All Population,2,DALYs (Disability-Adjusted Life Years),216,Senegal,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,74.25910898242593,140.2237427418118,31.388846783144484
+1,All Population,2,DALYs (Disability-Adjusted Life Years),23,Kiribati,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,189.47976682728364,362.58761031780125,72.96182701491608
+1,All Population,2,DALYs (Disability-Adjusted Life Years),147,Libya,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,15.73627960602614,32.3728305180116,5.75193834387813
+1,All Population,2,DALYs (Disability-Adjusted Life Years),81,Germany,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.24171037213756963,0.3310057025514029,0.18149804649328888
+1,All Population,2,DALYs (Disability-Adjusted Life Years),217,Sierra Leone,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,139.63572701671356,267.2503665705676,56.1142322335572
+1,All Population,2,DALYs (Disability-Adjusted Life Years),149,Palestine,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,23.673425462861676,44.813077992140514,9.630543947738365
+1,All Population,2,DALYs (Disability-Adjusted Life Years),374,Niue,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,89.19460650563347,165.89863130861946,35.05101644955803
+1,All Population,2,DALYs (Disability-Adjusted Life Years),218,Togo,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,93.4321132854271,185.79727641421587,36.09186738547119
+1,All Population,2,DALYs (Disability-Adjusted Life Years),135,Brazil,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,16.225452819447412,18.155802045633564,14.647852498185344
+1,All Population,2,DALYs (Disability-Adjusted Life Years),55,Slovenia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,0.3242930709297196,0.41304329656667615,0.26332120133731596
+1,All Population,2,DALYs (Disability-Adjusted Life Years),380,Palau,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,61.96888884463955,119.08787758402983,23.74408984803626
+1,All Population,2,DALYs (Disability-Adjusted Life Years),57,Belarus,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,1.1456722128601908,1.4370983097690775,0.8926677058634425
+1,All Population,6,Incidence,58,Estonia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,52.353201628149996,66.72377022571,40.591919659969996
+1,All Population,6,Incidence,59,Latvia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,52.66821765002,67.41611188944,40.45456750102
+1,All Population,6,Incidence,72,New Zealand,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,89.2814955253,114.13573570903999,67.35510057801
+1,All Population,6,Incidence,99,Uruguay,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,185.21425068443,237.74993599041,139.90314196722
+1,All Population,6,Incidence,85,Israel,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,66.90828664773,86.02675067506,50.59634032769001
+1,All Population,6,Incidence,60,Lithuania,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,51.20282043262,65.26318045069999,39.07997584703
+1,All Population,6,Incidence,86,Italy,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,72.06667049549,91.89142640634999,54.46313212197
+1,All Population,6,Incidence,74,Andorra,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,94.50204786231,119.49663500301999,70.81228757711
+1,All Population,6,Incidence,105,Antigua and Barbuda,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,155.9799951838,201.50548771639,118.18476508330001
+1,All Population,6,Incidence,75,Austria,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,67.99415071934,87.07754092341,51.27879670795
+1,All Population,6,Incidence,101,Canada,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,72.07422865333001,94.07511453946,54.754874233449996
+1,All Population,6,Incidence,61,Republic of Moldova,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,59.96076248705,77.15777078492,46.02899513474
+1,All Population,6,Incidence,89,Netherlands,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,68.04163872037,86.55751931066,52.526538249779996
+1,All Population,6,Incidence,87,Luxembourg,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,69.87915870604999,89.41557997296,52.83720534435
+1,All Population,6,Incidence,45,Bulgaria,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,40.69037382946,53.247340743719995,30.959046169420002
+1,All Population,6,Incidence,102,United States of America,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,110.20940978763001,139.38838180682,84.21436096283
+1,All Population,6,Incidence,88,Malta,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,69.36490008441001,89.45004740008,51.98449750431
+1,All Population,6,Incidence,6,China,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,144.21465302751,186.40193059756,108.14929679941
+1,All Population,6,Incidence,18,Thailand,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,193.6508057342,252.01954385564002,146.64408704486
+1,All Population,6,Incidence,76,Belgium,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,67.64703170922,87.42172635384,51.74329677295
+1,All Population,6,Incidence,62,Russian Federation,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,55.42375355009,70.42646644073,42.60099940424
+1,All Population,6,Incidence,33,Armenia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,51.80387668018,66.94743865360999,39.13780194411
+1,All Population,6,Incidence,46,Croatia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,44.2260999035,56.84749236549,33.37341830234
+1,All Population,6,Incidence,19,Timor-Leste,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,160.40003962263,204.31902024372002,120.18582248508
+1,All Population,6,Incidence,63,Ukraine,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,51.22842618652,65.83835500513,38.69652336051
+1,All Population,6,Incidence,34,Azerbaijan,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,60.48067999264,77.76022131414,45.27772206392
+1,All Population,6,Incidence,47,Czechia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,45.216393301029996,58.84037974217,34.304916044020004
+1,All Population,6,Incidence,77,Cyprus,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,68.89480188024,89.11239275269,51.84691964956
+1,All Population,6,Incidence,48,Hungary,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,54.055491162420005,69.68522500372,40.83792037447
+1,All Population,6,Incidence,20,Viet Nam,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,140.95236346675,183.07875777219,105.75451516634999
+1,All Population,6,Incidence,125,Colombia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,148.26215855249,189.71690931587,113.14427152332999
+1,All Population,6,Incidence,114,Haiti,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,253.56750661812,317.85616303318,196.18295463340002
+1,All Population,6,Incidence,90,Norway,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,74.98414938815,95.58165445322,57.60868496968
+1,All Population,6,Incidence,128,Guatemala,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,113.74248309515,142.64562494229,86.11122969825
+1,All Population,6,Incidence,112,Grenada,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,221.11458701424,280.96540413383,170.4764652277
+1,All Population,6,Incidence,206,Gambia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,391.69133701064,484.95335363563004,299.50624790444
+1,All Population,6,Incidence,178,Eritrea,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,654.44094524384,819.9874295942201,500.00136590597003
+1,All Population,6,Incidence,113,Guyana,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,113.41276476172001,141.92284836601002,89.07873151976999
+1,All Population,6,Incidence,126,Costa Rica,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,122.74488604676,157.13880579832,94.56778621535
+1,All Population,6,Incidence,139,Algeria,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,77.84615970575001,100.80982504760999,58.07812082871
+1,All Population,6,Incidence,43,Albania,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,44.87151703925,58.362149612479996,34.40435967649
+1,All Population,6,Incidence,179,Ethiopia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,704.99760980952,902.9309184243099,525.44824935917
+1,All Population,6,Incidence,305,Bermuda,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,160.11307801127,200.75241539287,121.45296842989
+1,All Population,6,Incidence,35,Georgia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,69.85063759596001,89.28995846099001,52.29268763675
+1,All Population,6,Incidence,152,Saudi Arabia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,70.64169372671,91.70213665858,54.056432603539996
+1,All Population,6,Incidence,320,Cook Islands,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,256.82740765589,323.18387405561,191.21620559693
+1,All Population,6,Incidence,156,United Arab Emirates,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,71.08740063632,91.10417051585,54.625090636879996
+1,All Population,6,Incidence,49,North Macedonia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,45.321628194919995,58.44488270632,33.77883992037
+1,All Population,6,Incidence,22,Fiji,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,331.03135984555996,422.64770003984,253.16043310000998
+1,All Population,6,Incidence,396,San Marino,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,80.32165661343,101.79165435962,58.413528278419996
+1,All Population,6,Incidence,170,Congo,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,1177.86033096428,1487.0145845063998,903.53480998605
+1,All Population,6,Incidence,142,Iran (Islamic Republic of),3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,48.48679510781,62.49581492852,36.55474405669
+1,All Population,6,Incidence,207,Ghana,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,465.26755867853,585.38786711244,359.39438208315
+1,All Population,6,Incidence,184,Mozambique,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,1065.64864118208,1327.39923824524,809.1018333987199
+1,All Population,6,Incidence,7,Democratic People's Republic of Korea,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,132.57769792827,169.38283831957,101.08795024685001
+1,All Population,6,Incidence,153,Syrian Arab Republic,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,77.1401910342,97.74742998462,59.21566918445
+1,All Population,6,Incidence,91,Portugal,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,67.13746633038,85.97286832293,50.48527428581
+1,All Population,6,Incidence,165,Pakistan,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,229.0385233121,295.66023424689,170.84316889705002
+1,All Population,6,Incidence,117,Saint Vincent and the Grenadines,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,168.96657524104,212.82307368735002,129.78263395606
+1,All Population,6,Incidence,413,Tokelau,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,262.12951625349996,328.80531462650004,196.79995381144
+1,All Population,6,Incidence,115,Jamaica,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,215.45739670737998,274.12797235461,164.49303171166
+1,All Population,6,Incidence,71,Australia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,84.8248421177,110.24036968521999,63.827644041800006
+1,All Population,6,Incidence,140,Bahrain,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,97.18865186322,122.14261130876,73.97720374936
+1,All Population,6,Incidence,180,Kenya,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,473.49442686176997,595.68966197176,361.24779918552997
+1,All Population,6,Incidence,141,Egypt,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,58.94794873322,76.52437334842,44.81615236446
+1,All Population,6,Incidence,129,Honduras,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,104.00252491068001,130.33817664127,79.43883119333
+1,All Population,6,Incidence,116,Saint Lucia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,216.035970388,273.06558582754997,166.43327931127
+1,All Population,6,Incidence,154,Tunisia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,76.11721214706999,97.84772356111,57.57701309742
+1,All Population,6,Incidence,193,Botswana,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,645.14133787963,810.39970282912,490.53076310602
+1,All Population,6,Incidence,416,Tuvalu,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,203.46533412422,260.05976705806,153.16100466389
+1,All Population,6,Incidence,181,Madagascar,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,836.1526705998899,1037.4763162823199,644.93148110086
+1,All Population,6,Incidence,422,United States Virgin Islands,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,182.60216481426002,229.25384127174,142.59525820032002
+1,All Population,6,Incidence,66,Brunei Darussalam,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,95.91051489434,120.88830933873001,74.49869015231
+1,All Population,6,Incidence,208,Guinea,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,440.48282589539,548.3331771557399,335.34834265209
+1,All Population,6,Incidence,130,Mexico,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,110.39519068317,140.16210226103,82.7526140289
+1,All Population,6,Incidence,92,Spain,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,68.85589634817,88.55452867983,52.76971815679
+1,All Population,6,Incidence,194,Lesotho,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,578.8782716476001,715.58815128848,437.34293454626004
+1,All Population,6,Incidence,57,Belarus,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,48.25118202365,62.22492154268001,37.11803815028
+1,All Population,6,Incidence,44,Bosnia and Herzegovina,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,45.2523990108,57.67964009843,34.80056269398
+1,All Population,6,Incidence,209,Guinea-Bissau,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,405.77823591439,498.76105350797997,310.92051418598
+1,All Population,6,Incidence,145,Kuwait,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,80.61599449522001,103.51637906473,61.54607846
+1,All Population,6,Incidence,195,Namibia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,592.1223932978199,747.93667998363,447.29573191042
+1,All Population,6,Incidence,157,Yemen,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,87.67881190961,112.25235791904,67.31196786182
+1,All Population,6,Incidence,143,Iraq,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,75.0026017086,95.69423437442,56.243822109380005
+1,All Population,6,Incidence,200,Benin,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,301.69526724897,382.28939120962997,228.29178910382
+1,All Population,6,Incidence,298,American Samoa,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,233.80375192281,293.14433037699,181.20829987899998
+1,All Population,6,Incidence,203,Cabo Verde,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,508.43398817388004,646.05183898222,386.49355619976
+1,All Population,6,Incidence,214,Nigeria,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,317.08171956441004,405.64018888719,237.21499355221
+1,All Population,6,Incidence,127,El Salvador,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,97.51099326954,125.49180525322,73.44312720243
+1,All Population,6,Incidence,168,Angola,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,1204.63995105052,1515.85256069755,913.2699263159001
+1,All Population,6,Incidence,14,Maldives,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,170.99528244509,218.72317050879,131.71355575078
+1,All Population,6,Incidence,155,Türkiye,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,58.292158869089995,73.82799125434,44.06612057493
+1,All Population,6,Incidence,11,Indonesia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,241.58808240202998,308.77799110258,183.61868255168
+1,All Population,6,Incidence,196,South Africa,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,668.09280644049,833.7150782830399,504.27761669580997
+1,All Population,6,Incidence,29,Tonga,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,192.8257641065,242.64558059077999,146.31134326286002
+1,All Population,6,Incidence,160,Afghanistan,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,86.42435053927001,109.9138177757,65.64605201716999
+1,All Population,6,Incidence,217,Sierra Leone,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,382.96644002904003,485.68089650171,288.61507080176
+1,All Population,6,Incidence,131,Nicaragua,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,110.04716108861999,139.19279459766,83.97840324146
+1,All Population,6,Incidence,218,Togo,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,381.28915894081,478.14860820473,287.46154287976
+1,All Population,6,Incidence,210,Liberia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,603.6025871054001,764.38174533018,458.1469585988
+1,All Population,6,Incidence,82,Greece,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,67.82661263032,85.60182069881999,51.88937658472
+1,All Population,6,Incidence,68,Republic of Korea,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,98.95409730412,125.07394696619,75.81412710941
+1,All Population,6,Incidence,376,Northern Mariana Islands,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,258.54607279688,319.10312068964004,197.61306730365
+1,All Population,6,Incidence,39,Tajikistan,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,67.35130363113001,85.38909450915,52.10417962548
+1,All Population,6,Incidence,171,Democratic Republic of the Congo,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,1254.95929128788,1588.8867958975002,972.23606275223
+1,All Population,6,Incidence,185,Rwanda,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,634.46605100763,781.87436937577,487.383729936
+1,All Population,6,Incidence,53,Serbia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,45.40185216041,58.09932592612999,34.74269845958
+1,All Population,6,Incidence,204,Chad,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,487.61749605239,616.66246243448,380.25164916619997
+1,All Population,6,Incidence,78,Denmark,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,63.87570464045,81.9050516441,48.61519032295
+1,All Population,6,Incidence,106,Bahamas,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,191.38360638073001,242.26974236658,146.95230994170998
+1,All Population,6,Incidence,144,Jordan,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,89.26324404972999,113.97176055742001,67.1364650832
+1,All Population,6,Incidence,175,Burundi,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,611.52363485925,753.98986828641,468.66415624859
+1,All Population,6,Incidence,189,United Republic of Tanzania,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,669.95557767803,847.68488001199,518.16813279385
+1,All Population,6,Incidence,367,Monaco,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,77.20884072731,97.16896780201999,58.81866220919
+1,All Population,6,Incidence,169,Central African Republic,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,1284.56521262267,1583.3559490715797,986.4925314030301
+1,All Population,6,Incidence,182,Malawi,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,690.41773891575,870.01508272512,535.90982925159
+1,All Population,6,Incidence,183,Mauritius,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,160.84722867414,207.80096826873,121.33123027116
+1,All Population,6,Incidence,177,Djibouti,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,618.5391194903899,775.79031668297,472.41411374899997
+1,All Population,6,Incidence,50,Montenegro,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,48.07541585262,61.60612407002,37.466905664769996
+1,All Population,6,Incidence,110,Dominica,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,233.70584023428998,292.50865319796003,179.49965762505002
+1,All Population,6,Incidence,97,Argentina,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,194.01035718232,248.67414082183998,149.97133633838
+1,All Population,6,Incidence,121,Bolivia (Plurinational State of),3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,269.72837778986997,337.93532311049,205.76941020476002
+1,All Population,6,Incidence,197,Eswatini,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,614.2367998846499,778.48516273084,462.92897607233004
+1,All Population,6,Incidence,349,Greenland,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,91.59963837486,115.61432893749,69.79828684174001
+1,All Population,6,Incidence,23,Kiribati,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,282.40705137477,360.83322741514,212.87328372334002
+1,All Population,6,Incidence,522,Sudan,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,134.47003763032,172.60296829832,101.00472108352
+1,All Population,6,Incidence,435,South Sudan,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,984.88935119458,1229.5309164872,758.3819241177999
+1,All Population,6,Incidence,8,Taiwan,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,129.57614495825,168.06427629992,99.71904664389001
+1,All Population,6,Incidence,198,Zimbabwe,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,539.5736154149399,669.98820312293,414.81748932319
+1,All Population,6,Incidence,36,Kazakhstan,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,60.425438564749996,78.3177892593,46.159712204499996
+1,All Population,6,Incidence,10,Cambodia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,100.56567200554001,128.04269912936002,77.26989674904999
+1,All Population,6,Incidence,118,Suriname,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,121.09391645504,152.97217072149002,94.59306115141999
+1,All Population,6,Incidence,132,Panama,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,144.92220521257,184.20628490483,109.08516989647
+1,All Population,6,Incidence,25,Micronesia (Federated States of),3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,275.11663749849004,344.9824655568,210.17748905616
+1,All Population,6,Incidence,146,Lebanon,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,86.30904728592999,109.49138516577,65.58073371278
+1,All Population,6,Incidence,205,Côte d'Ivoire,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,441.87054711018004,563.48720671686,327.1663973148
+1,All Population,6,Incidence,161,Bangladesh,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,238.52848179737998,304.67567026911,179.55017909258
+1,All Population,6,Incidence,211,Mali,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,506.06646391171995,630.59807967287,387.52962152522
+1,All Population,6,Incidence,79,Finland,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,68.4545971551,87.3559170787,52.90207654981
+1,All Population,6,Incidence,67,Japan,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,97.93354021470999,123.94088267180001,74.90256205396
+1,All Population,6,Incidence,186,Seychelles,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,168.71273188937,210.71763952359998,130.94950180346
+1,All Population,6,Incidence,172,Equatorial Guinea,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,1346.381858859,1686.6062952005802,1030.0454146775899
+1,All Population,6,Incidence,173,Gabon,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,1163.43519428386,1488.0551467631099,885.7303482511
+1,All Population,6,Incidence,201,Burkina Faso,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,351.41821676259,446.88027547033,264.79634449065
+1,All Population,6,Incidence,215,Sao Tome and Principe,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,384.58542181258997,489.11174517794,294.3444546934
+1,All Population,6,Incidence,83,Iceland,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,69.7756186191,88.96863304982,53.82941251193
+1,All Population,6,Incidence,107,Barbados,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,122.02747370236001,154.10574941374,94.22312787450001
+1,All Population,6,Incidence,93,Sweden,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,72.31798118461,92.85577275758,55.54065033169
+1,All Population,6,Incidence,133,Venezuela (Bolivarian Republic of),3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,192.75838312531002,244.75895545388,147.98920922554998
+1,All Population,6,Incidence,119,Trinidad and Tobago,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,138.28995572072,176.04306062793,106.67814840326999
+1,All Population,6,Incidence,147,Libya,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,77.19219146225,97.6909941048,57.39381284009
+1,All Population,6,Incidence,162,Bhutan,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,350.38354512928,449.88991778641997,266.65159603871
+1,All Population,6,Incidence,51,Poland,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,45.29339756925,58.98012391854,33.55622845265
+1,All Population,6,Incidence,149,Palestine,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,76.15271522996001,97.24651127431,57.3991835675
+1,All Population,6,Incidence,163,India,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,254.91044565551002,322.5852015191,193.39394353938
+1,All Population,6,Incidence,15,Myanmar,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,279.19853681315,359.82251979329004,210.53570061355998
+1,All Population,6,Incidence,37,Kyrgyzstan,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,54.27052413413,69.55454949134,41.52637933525
+1,All Population,6,Incidence,135,Brazil,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,202.9167150438,254.50327403019998,153.2108550742
+1,All Population,6,Incidence,176,Comoros,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,686.5654282762899,858.89073769791,530.63950569365
+1,All Population,6,Incidence,187,Somalia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,729.04157346885,906.2562500898,555.75687967637
+1,All Population,6,Incidence,380,Palau,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,189.58877424313,237.55955395946003,147.78988431429
+1,All Population,6,Incidence,69,Singapore,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,91.77104615255,117.22365836265001,69.78653641813
+1,All Population,6,Incidence,202,Cameroon,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,630.8132762453899,795.73640437685,470.92913105632
+1,All Population,6,Incidence,40,Turkmenistan,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,62.38030607581,79.68992735272,47.61527790122
+1,All Population,6,Incidence,216,Senegal,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,512.0677358854799,654.47142371875,386.58935932203
+1,All Population,6,Incidence,26,Papua New Guinea,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,239.98081234916,299.71430757745,185.14453907571001
+1,All Population,6,Incidence,111,Dominican Republic,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,208.50911240876,263.53571474016996,159.99876529317
+1,All Population,6,Incidence,12,Lao People's Democratic Republic,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,144.70615006582,186.30079890417,109.93574000121001
+1,All Population,6,Incidence,148,Morocco,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,223.57910379641,288.85916377858996,165.7651011316
+1,All Population,6,Incidence,351,Guam,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,226.87962724286,285.97088604329997,177.90647470583
+1,All Population,6,Incidence,24,Marshall Islands,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,313.83638997884,398.54828265512003,241.87176744642002
+1,All Population,6,Incidence,108,Belize,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,133.6108469073,172.44537436785,102.66050238768999
+1,All Population,6,Incidence,190,Uganda,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,695.84217247173,868.27712011128,536.6681884863
+1,All Population,6,Incidence,54,Slovakia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,42.37996244973,54.844915984059995,32.71663650217
+1,All Population,6,Incidence,30,Vanuatu,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,282.13513832974996,358.08148585899,214.24447709737998
+1,All Population,6,Incidence,98,Chile,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,147.84425308345,191.34755693536002,111.24686138544999
+1,All Population,6,Incidence,84,Ireland,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,66.79770693052,86.45830993582,50.78827134279
+1,All Population,6,Incidence,16,Philippines,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,199.86459087510002,255.48483179015,151.73400135115
+1,All Population,6,Incidence,80,France,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,71.43337353252,92.32866418188,54.220131083999995
+1,All Population,6,Incidence,122,Ecuador,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,236.06033299325,299.13280891087004,181.06571481564
+1,All Population,6,Incidence,94,Switzerland,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,66.33677266587999,85.34657353682,50.27427518740001
+1,All Population,6,Incidence,191,Zambia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,861.8517455763299,1081.36702275551,671.82480517981
+1,All Population,6,Incidence,385,Puerto Rico,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,158.71149118781,201.40600939439003,123.21765786384
+1,All Population,6,Incidence,17,Sri Lanka,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,71.79811005252,93.31511133783,53.13720549621
+1,All Population,6,Incidence,212,Mauritania,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,463.2899050305,584.93077841476,352.83422238172
+1,All Population,6,Incidence,38,Mongolia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,97.74089868562,121.99329025400999,73.11867956831
+1,All Population,6,Incidence,213,Niger,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,311.23719860878,396.56136154024995,237.68528474462002
+1,All Population,6,Incidence,369,Nauru,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,315.34706207756,394.18915575128,233.20990335648997
+1,All Population,6,Incidence,41,Uzbekistan,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,59.38267249436,77.36192067962,44.8281852672
+1,All Population,6,Incidence,27,Samoa,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,129.27409647832002,161.16265100108,99.77623144488
+1,All Population,6,Incidence,55,Slovenia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,45.578663792440004,58.082117112620004,34.38752385166
+1,All Population,6,Incidence,13,Malaysia,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,136.86839318294,174.23722792236,103.22049438350001
+1,All Population,6,Incidence,393,Saint Kitts and Nevis,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,239.78278742131,309.83251995356,177.71365157807
+1,All Population,6,Incidence,52,Romania,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,52.868338537739994,67.24799767566,39.61720557659
+1,All Population,6,Incidence,109,Cuba,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,146.16501021095,187.41037076928,111.39202190203999
+1,All Population,6,Incidence,374,Niue,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,264.03701075545,328.83987253447003,200.67308773395
+1,All Population,6,Incidence,28,Solomon Islands,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,313.94636004912996,406.82106134953,239.09639054873
+1,All Population,6,Incidence,164,Nepal,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,249.85591959699997,319.74850882197,189.67647367657
+1,All Population,6,Incidence,150,Oman,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,68.73760246694,89.06597852252999,52.80544723608
+1,All Population,6,Incidence,81,Germany,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,67.00851871068,85.96698733801999,50.94552886507
+1,All Population,6,Incidence,95,United Kingdom,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,77.62195378675,97.80557330954998,59.70268651666
+1,All Population,6,Incidence,136,Paraguay,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,230.37110012013,293.93842948213,174.44351894241998
+1,All Population,6,Incidence,123,Peru,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,218.44032945941,277.20683745575,170.03004029438
+1,All Population,6,Incidence,151,Qatar,3,Both,27,Age-standardized,394,Syphilis,3,Rate,2023,178.56943439443,231.37733599953,131.24515931394

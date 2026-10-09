@@ -1,0 +1,37 @@
+"location","sex","measure","rate_2023","EAPC","EAPC_95lo","EAPC_95hi"
+"China","Male","ASIR",217.87,-0.18,-0.37,0.01
+"China","Male","ASPR",772.02,-0.25,-0.43,-0.08
+"China","Male","ASDR",0.2,-2.97,-3.66,-2.27
+"China","Male","DALY rate",17.56,-2.83,-3.55,-2.11
+"China","Female","ASIR",63.26,-0.5,-0.93,-0.07
+"China","Female","ASPR",281.93,-0.55,-0.93,-0.16
+"China","Female","ASDR",0.19,-2.67,-3.49,-1.84
+"China","Female","DALY rate",16.57,-2.63,-3.47,-1.78
+"China","Both","ASIR",144.21,-0.24,-0.45,-0.03
+"China","Both","ASPR",537.15,-0.33,-0.54,-0.13
+"China","Both","ASDR",0.19,-2.83,-3.58,-2.07
+"China","Both","DALY rate",17.09,-2.74,-3.52,-1.96
+"Global","Male","ASIR",309.45,0.21,0.15,0.28
+"Global","Male","ASPR",1109.73,0.09,0.01,0.16
+"Global","Male","ASDR",1.34,-1.16,-1.47,-0.84
+"Global","Male","DALY rate",118.91,-1.07,-1.38,-0.76
+"Global","Female","ASIR",161.39,-0.13,-0.37,0.11
+"Global","Female","ASPR",685.42,-0.29,-0.53,-0.04
+"Global","Female","ASDR",1.14,-1.04,-1.36,-0.72
+"Global","Female","DALY rate",101.99,-1.03,-1.35,-0.71
+"Global","Both","ASIR",236.24,0.1,0,0.2
+"Global","Both","ASPR",899.33,-0.05,-0.18,0.07
+"Global","Both","ASDR",1.24,-1.09,-1.41,-0.78
+"Global","Both","DALY rate",110.67,-1.05,-1.36,-0.73
+"High SDI","Male","ASIR",152.28,-0.19,-0.3,-0.08
+"High SDI","Male","ASPR",528.57,-0.18,-0.27,-0.09
+"High SDI","Male","ASDR",0.1,-2.64,-2.84,-2.45
+"High SDI","Male","DALY rate",8.9,-2.36,-2.61,-2.11
+"High SDI","Female","ASIR",66.02,0.21,0.07,0.34
+"High SDI","Female","ASPR",273.81,0.19,0.04,0.34
+"High SDI","Female","ASDR",0.09,-2.09,-2.43,-1.75
+"High SDI","Female","DALY rate",7.52,-2.1,-2.46,-1.75
+"High SDI","Both","ASIR",110.51,-0.05,-0.15,0.04
+"High SDI","Both","ASPR",404.67,-0.04,-0.13,0.05
+"High SDI","Both","ASDR",0.09,-2.37,-2.63,-2.1
+"High SDI","Both","DALY rate",8.22,-2.24,-2.53,-1.94
