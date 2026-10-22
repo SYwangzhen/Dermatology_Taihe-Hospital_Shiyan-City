@@ -122,12 +122,14 @@ the age-standardised series cannot be rebuilt from the released datasets alone.
 (provincial totals against the national row, stage components against the total); they
 write no files.
 
-**One input is not redistributed:** the GBD 2023 extraction
-(`B_age_sex_1990_2023.csv`) is IHME data and must be downloaded from the GBD Results Tool
+**Two inputs are not redistributed:** the GBD 2023 extractions `B_age_sex_1990_2023.csv`
+and `A_ASR_1990_2023.csv` are IHME data and must be downloaded from the GBD Results Tool
 using the specification in [`docs/gbd_query.md`](docs/gbd_query.md), then placed in `raw/`.
 `figures_P3.py` falls back to the released `data/S3_gbd_china_age_sex_1990_2023.csv`
-(identical GBD 2023 values, China only) when that file is absent, so figure 4 reproduces
-either way. Cite IHME GBD 2023 whenever these estimates are reused.
+(identical GBD 2023 values, China only) when the first is absent, so figures 4 and 5
+reproduce either way; `build_supplementary.py` stops with a message naming the missing file,
+because the age-standardised series cannot be rebuilt from the released datasets alone.
+Cite IHME GBD 2023 whenever these estimates are reused.
 
 ---
 
