@@ -1,0 +1,11 @@
+Attribute,GBD 2023 model estimate,NNDRS series A (onset date),NNDRS series B1 (final-review date),NNDRS series B2 (report date)
+Publisher,"IHME, Global Burden of Disease 2023",NDCPA: annual national notifiable-disease summary; NHC: China health development statistical bulletin,"NDCPA monthly statistics / China CDC, Disease Surveillance, December issue",China CDC National Center for STD Control: annual national STD epidemic report
+Numerator construct,Modelled incident infections (symptomatic and asymptomatic),Clinically diagnosed and laboratory-confirmed notified cases,Notified cases,Reported cases
+Statistical basis (official footnote),Model-based estimate; not case-based,Counted by date of onset,Counted by date of final review,Counted by date of report
+Unit,"Cases; rate per 100,000 (age-standardised)","Cases; rate per 100,000",Cases,Cases
+Temporal coverage,1990-2023,1998-2025,2004-2025,"2011, 2023-2025"
+Spatial resolution,National only,National; provincial panel 2004-2024 obtained separately from the Public Health Science Data Center,National,National
+Stage resolution,None,Total only,"Five stages, 2012-2025 (primary, secondary, tertiary, congenital, latent)","Five stages, 2023-2025"
+Age / sex resolution,25 age groups × 2 sexes,Neither reported,Neither reported,Sex ratio reported
+Uncertainty,95% uncertainty interval for every estimate,Not reported,Not reported,Not reported
+Congenital syphilis,Modelled deaths and DALYs under 5 years,Included in the total only,Notified congenital cases,Notified congenital cases

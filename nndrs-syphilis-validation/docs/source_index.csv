@@ -1,0 +1,37 @@
+﻿编号,数据源,内容,粒度,可得性,URL
+S1,公共卫生科学数据中心-梅毒数据库,2004年网络直报以来全部梅毒报告数据(发病人数/发病率/死亡/死亡率),分地区 分年龄组性别 分职业 分病种,注册后免费查询下载;更细粒度需提交数据申请并签责任书,https://www.phsciencedata.cn/Share/ky_sjml.jsp?id=3b00c675-b975-4505-a48f-e086519c7b49
+S1b,公共卫生科学数据中心-梅毒分地区查询,分省梅毒统计,全国及31省,注册后免费,https://www.phsciencedata.cn/Share/ky_sjml.jsp?id=3b00c675-b975-4505-a48f-e086519c7b49#tabs-2f231cc7-6a09-4c5a-a9a5-da0e68f37382
+S1c,公共卫生科学数据中心-梅毒分年龄组查询,分年龄组性别梅毒统计,年龄组+性别,注册后免费,https://www.phsciencedata.cn/Share/ky_sjml.jsp?id=3b00c675-b975-4505-a48f-e086519c7b49#tabs-c06c46d1-8cb9-47d6-a9e9-6893144f3707
+S1d,公共卫生科学数据中心-法定报告传染病,2004-2013年全国法定传染病报告发病死亡统计表(.doc),全国,免费下载,https://www.phsciencedata.cn/Share/ky_sjml.jsp?id=a56cd203-cd11-414d-9efa-d1583b97476f
+S1e,公共卫生科学数据中心-用户指南(注册流程),注册/查询/下载/数据申请流程说明,-,公开,https://www.phsciencedata.cn/Share/jsp/PublishManager/userGuide.jsp
+S1f,公共卫生科学数据中心-用户注册,注册账号(建议用机构邮箱)并在线签数据使用协议,-,免费,https://www.phsciencedata.cn/Share/userRegister.jsp
+S1g,公共卫生科学数据中心-用户登录,查询与下载数据前必须先登录,-,免费,https://www.phsciencedata.cn/Share/login.jsp
+S1h,公共卫生科学数据中心-高级检索,跨库检索公共卫生数据集,-,免费,https://www.phsciencedata.cn/Share/advancedSearchDataSet.jsp
+S0,【必读】域名规则,裸域名 phsciencedata.cn 无法解析(DNS失败);必须带 www. 前缀且推荐 https,-,-,https://www.phsciencedata.cn/Share/index.jsp
+S2,国家疾病预防控制局-全国法定传染病疫情概况,年度与月度法定传染病发病死亡统计表(含梅毒),全国,公开网页+附表,https://www.ndcpa.gov.cn/jbkzzx/c100016/common/content/content_1836299733133275136.html
+S3,中国疾病预防控制中心-疫情数据,全国法定传染病疫情概况(与S2互为备份),全国,公开,https://www.chinacdc.cn/jksj/jksj01/202410/t20241010_301346.html
+S4,疾病监测(China CDC传染病处)-月度疫情动态简介,月度甲乙丙类传染病表；含梅毒分型(一期/二期/三期/胎传/隐性)+本月/去年同月/本年累计/去年累计,全国,免费开放 有DOI,https://www.jbjc.org/article/id/1cb7b7f1-d80c-423c-9175-9fe2aa835181
+S5,中国疾病预防控制中心性病艾滋病预防控制中心-全国艾滋病性病疫情年报,年度梅毒疫情:总量+分型+男女比+同比,《中国艾滋病性病》每年第3期 全国,期刊公开 DOI 10.13419/j.cnki.aids.YYYY.03.01,http://www.cqaidsw.com/index.php?m=content&c=index&a=show&catid=29&id=11075
+S6,中国卫生健康统计年鉴,10-1-4 各地区甲乙类法定报告传染病发病率及死亡率(含梅毒/淋病列),全国+31省,官方出版物(付费);年鉴下载站有PDF+Excel,https://www.tjnj.net/navipage-n3026041506000310.html
+S7,我国卫生健康事业发展统计公报,表17 全国甲乙类传染病报告发病及死亡数(含梅毒 当年+上年),全国,公开,https://wjw.yl.gov.cn/zfxxgk/fdzdgknr/tjxx/202107/t20210714_696715.html
+S8,国家人口健康科学数据中心/中国科技资源共享网-梅毒监测数据,梅毒监测数据与时空分析方案(采集范围31省/330余地市/近3000县区),省-地市-县区,完全共享 线上申请,https://escience.org.cn/metadata/detail?cstrId=CSTR:17970.11.A0006.201905.000422
+S9,中国疾病预防控制中心性病控制中心,性病防治技术资料,全国,公开,https://www.ncstdc.cn/
+S10,疾病监测-1998-2007年中国梅毒流行病学特征分析,1998-2007全国梅毒发病数+发病率+人口基数全序列,全国年度,免费开放 有DOI,https://www.jbjc.org/article/pdf/preview/10.3784/j.issn.1003-9961.2009.11.006.pdf
+S11,疾病监测-2015年12月月表,2015与2014全年梅毒分型(Ⅰ/Ⅱ/Ⅲ/胎传/隐性)本年累计,全国月度,免费开放,https://www.jbjc.org/JBJC/html/article_8547.htm
+S12,疾病监测-2014年12月月表,2014与2013全年梅毒分型本年累计,全国月度,免费开放,https://html.rhhz.net/JBJC/html/article_8251.htm
+S13,疾病监测-2013年12月月表,2013与2012全年梅毒分型本年累计,全国月度,免费开放,https://www.jbjc.org/JBJC/html/article_7975.htm
+S14,疾病监测-2016年12月月表,2016与2015全年梅毒分型本年累计,全国月度,免费开放,https://www.jbjc.org/JBJC/html/article_8837.htm
+S15,疾病监测-2017年12月月表,2017与2016全年梅毒分型本年累计,全国月度,免费开放,https://html.rhhz.net/JBJC/html/article_9093.htm
+S16,疾病监测-2018年12月月表,2018与2017全年梅毒分型本年累计,全国月度,免费开放,https://www.jbjc.org/article/doi/10.3784/j.issn.1003-9961.2019.01.001
+S17,疾病监测-2019年12月月表,2019与2018全年梅毒分型本年累计,全国月度,免费开放,https://www.jbjc.org/article/doi/10.3784/j.issn.1003-9961.2020.01.001
+S18,疾病监测-2020年12月月表,2020与2019全年梅毒分型本年累计,全国月度,免费开放,https://www.jbjc.org/article/doi/10.3784/jbjc.202101200039
+S19,疾病监测-2021年12月月表,2021全年梅毒分型本年累计,全国月度,免费开放,https://www.jbjc.org/cn/article/doi/10.3784/jbjc.202201250016
+S20,国家统计局-中国统计年鉴,甲乙类法定报告传染病发病率/死亡率/病死率逐年表,全国,公开,https://www.stats.gov.cn/sj/ndsj/2008/html/V2137C.HTM
+S21,国家卫健委-卫生事业发展统计公报,表11/12/17 逐年甲乙类传染病发病数(含上年对比列),全国,公开,https://www.nhc.gov.cn/mohwsbwstjxxzx/s7967/201004/8d7fb7ef261b4454bee1a010a29b55e3.shtml
+S22,中华流行病学杂志-COVID流行对梅毒报告的影响,2013-2021全国梅毒漏报率与诊断准确率序列;2020-2021分型变化,全国年度,免费开放,http://chinaepi.icdc.cn/zhlxbx/article/html/20221223
+S23,The changing epidemiology of syphilis (综述),2005-2020分型构成比轨迹;2020年五类分型绝对数;2020-2023发病率,全国年度,免费开放,https://pmc.ncbi.nlm.nih.gov/articles/PMC12681740/pdf/main.pdf
+S24,公共卫生科学数据中心-BIRT报表直连接口(分地区统计表),31省+全国;2004-2020含6分型×4指标;2021-2024仅合计且存在精确2倍复制缺陷(须÷2;详见docs/08),全国+31省 2004-2024(年份下拉止于2020;2021+须手构URL),可直连返回HTML报表(无需登录),https://www.phsciencedata.cn/Share/preview?__report=ReportZoneYear.rptdesign&years=2024&diseaseId=17&__format=html
+S24b,同上-分年龄组报表,26年龄组;2004-2020含分型;2021-2024仅合计(÷2修正;2024年率值列缺失),全国 2004-2024,可直连,https://www.phsciencedata.cn/Share/preview?__report=ReportAgeYear.rptdesign&years=2024&diseaseId=17&__format=html
+S24c,同上-月统计表(分地区/分年龄组),月粒度,全国+31省/26年龄组,可直连(需加months参数),https://www.phsciencedata.cn/Share/preview?__report=ReportZoneMonth.rptdesign&years=2020&months=12&diseaseId=17&__format=html
+S24d,同上-报表参数定义,字段定义与年份选项(隐藏字段diseaseId=17梅毒/raqName),-,公开,https://www.phsciencedata.cn/Share/reportFiles/2f231cc7-6a09-4c5a-a9a5-da0e68f37382_arg.html
+S24f,省级数据2倍缺陷的外部独立校验源,省市卫健委统计公报:重庆2022/2023发病率51.03/53.26;海南2023例数6453;陕西2022/2023例数9499/10881,重庆/海南/陕西,公开,https://wsjkw.cq.gov.cn/zwgk_242/wsjklymsxx/ylws_266434/jbfk_266438/yqxx/202501/t20250115_14163056_wap.html

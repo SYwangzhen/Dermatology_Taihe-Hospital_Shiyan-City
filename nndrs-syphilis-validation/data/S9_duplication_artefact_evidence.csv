@@ -1,0 +1,20 @@
+﻿evidence,year,item,value,reference,note
+National total reconciliation,2021,Report national total (as returned),960040.0,480020,ratio to official series A = 2.0000×
+National total reconciliation,2021,After ÷2 correction,480020.0,480020,exactly equal to series A
+National total reconciliation,2022,Report national total (as returned),882318.0,441159,ratio to official series A = 2.0000×
+National total reconciliation,2022,After ÷2 correction,441159.0,441159,exactly equal to series A
+National total reconciliation,2023,Report national total (as returned),1060232.0,530116,ratio to official series A = 2.0000×
+National total reconciliation,2023,After ÷2 correction,530116.0,530116,exactly equal to series A
+National total reconciliation,2024,Report national total (as returned),1144184.0,572092,ratio to official series A = 2.0000×
+National total reconciliation,2024,After ÷2 correction,572092.0,572092,exactly equal to series A
+Parity test (provincial table),2020,Values returned,64.0,28 odd values,56.25% even — known-correct table
+Parity test (provincial table),2021,Values returned,64.0,0 odd values,100.00% even — affected table
+Parity test (provincial table),2022,Values returned,64.0,0 odd values,100.00% even — affected table
+Parity test (provincial table),2023,Values returned,64.0,0 odd values,100.00% even — affected table
+Parity test (provincial table),2024,Values returned,64.0,0 odd values,100.00% even — affected table
+External validation against provincial bulletins,2022,"Chongqing — incidence rate per 100,000",51.0305,51.03,"within 0.006%; source: Chongqing health development statistical bulletin 2023, table 17"
+External validation against provincial bulletins,2023,"Chongqing — incidence rate per 100,000",53.263,53.26,"within 0.006%; source: Chongqing health development statistical bulletin 2023, table 17"
+External validation against provincial bulletins,2023,Hainan — cases,6453.0,6453,"exact match; source: Hainan provincial health commission bulletin 2023, table 16"
+External validation against provincial bulletins,2022,Shaanxi — cases,9499.0,9499,"exact match; source: Shaanxi health development statistical bulletin 2023, table 16"
+External validation against provincial bulletins,2023,Shaanxi — cases,10881.0,10881,"exact match; source: Shaanxi health development statistical bulletin 2023, table 16"
+Population back-calculation,2021–2024,Ratio of implied population to true population (31 provinces),0.5,1.0,"range 49.2–50.9%; all four indicator columns are inflated synchronously, not case counts alone"

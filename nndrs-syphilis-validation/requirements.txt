@@ -1,0 +1,4 @@
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+# openpyxl optional, only for exporting Table 1 to xlsx

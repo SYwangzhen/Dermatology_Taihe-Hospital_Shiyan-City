@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use these data or this code, please cite the article and this repository."
+title: "Reconciling modelled and notified syphilis burden in China, 2004-2025: data and code"
+abstract: >-
+  Parallel-series triangulation of GBD 2023 modelled syphilis burden against three official
+  Chinese notification series (onset date, final-review date, report date), with the fifteen
+  machine-readable datasets, the analysis code and figures 1-5 of the manuscript.
+authors:
+  - family-names: Wang
+    given-names: Zhen
+    affiliation: "Department of Dermatology, Taihe Hospital, the Affiliated Hospital of Hubei University of Medicine, Shiyan, China"
+    email: sywz1998@163.com
+  - family-names: Wang
+    given-names: Cangyu
+    affiliation: "Faculty of Medicine, Technische Universitat Dresden, Dresden, Germany"
+  - family-names: Jing
+    given-names: Haixia
+    affiliation: "Department of Dermatology, Taihe Hospital, the Affiliated Hospital of Hubei University of Medicine, Shiyan, China"
+  - family-names: Tang
+    given-names: Zhiping
+    affiliation: "Department of Dermatology, Taihe Hospital, the Affiliated Hospital of Hubei University of Medicine, Shiyan, China"
+repository-code: "https://github.com/SYwangzhen/Dermatology_Taihe-Hospital_Shiyan-City/tree/main/nndrs-syphilis-validation"
+license: MIT
+type: software
+version: "1.0"
+date-released: "2026-10-22"
+keywords:
+  - syphilis
+  - burden of disease
+  - GBD 2023
+  - notifiable disease surveillance
+  - China
+  - triangulation
