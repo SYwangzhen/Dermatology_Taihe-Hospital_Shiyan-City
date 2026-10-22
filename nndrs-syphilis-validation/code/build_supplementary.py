@@ -214,7 +214,7 @@ QACC = [93.87, 92.23, 95.24, 96.04, 95.77, 97.63, 98.25, 98.97, 98.73]
 s5 = pd.DataFrame({'year': QY, 'under_reporting_pct': QUNDER,
                    'diagnostic_accuracy_pct': QACC,
                    'source': ['National evaluation of notifiable-disease reporting quality, '
-                              '2013\u20132021 (ref 21)'] * len(QY)})
+                              '2013\u20132021 (ref 14)'] * len(QY)})
 s5['model_to_notification_ratio'] = s5['year'].map(
     dict(zip(ratio['year'], ratio['gbd_over_A']))).round(2)
 s5.to_csv(os.path.join(DAT, 'S5_reporting_quality_2013_2021.csv'),
