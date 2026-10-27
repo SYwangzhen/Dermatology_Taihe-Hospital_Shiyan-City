@@ -37,7 +37,7 @@ cscc-gbd2023-china-burden/
 │   └── make_figures_final.py  Figures 2–4 from pipeline outputs + assertions
 ├── data/
 │   ├── raw/                 5 original IHME archive ZIPs as downloaded +
-│   │                        3 label-normalized CSV exports (identical values)
+│   │                        3 directly extracted CSV exports (A/B retain Chinese-interface labels; values identical)
 │   └── (CSV/JSON)           machine-readable result tables (Table 1, eTables 1–5 sources)
 ├── figures/                 final Figures 1–4 (vector PDF)
 ├── DOWNLOAD_PARAMETERS.txt  exact GBD Results Tool download parameters

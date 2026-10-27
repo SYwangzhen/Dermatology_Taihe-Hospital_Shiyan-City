@@ -7,9 +7,12 @@ Interface: Chinese-language UI (labels normalized in 01_load_clean.R /
 
 The five export parameter sets below correspond to the eight files under
 data/raw/: the five original IHME archive ZIPs exactly as downloaded, plus
-three CSV exports with English value labels (A_ASR_1990_2023.csv,
-B_age_sex_1990_2023.csv, C_Population_1990_2023.csv) that are label-normalized
-versions of three of the archives (row counts and all values identical).
+three directly extracted CSV copies of the corresponding archives
+(A_ASR_1990_2023.csv, B_age_sex_1990_2023.csv, C_Population_1990_2023.csv).
+The A and B CSV files retain the Chinese-interface value labels, whereas the
+Population CSV contains English labels. Row counts, row order, and numerical
+values are identical to those in the original archives; label normalization
+is performed during analysis (01_load_clean.R / reanalysis_v23.py).
 
 [1] GBD 2023 - Export A (A_ASR_1990_2023.csv / IHME-GBD_2023_DATA-cbf696fc-1.zip):
     age-standardized annual rate series
