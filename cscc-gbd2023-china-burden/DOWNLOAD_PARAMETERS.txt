@@ -1,0 +1,74 @@
+GBD DOWNLOAD PARAMETERS (GBD 2023 main analysis + GBD 2021 cross-cycle)
+========================================================================
+Source: GBD Results Tool, https://vizhub.healthdata.org/gbd-results/
+Downloaded: 3 September 2026 (free registration required)
+Interface: Chinese-language UI (labels normalized in 01_load_clean.R /
+           reanalysis_v23.py)
+
+The five export parameter sets below correspond to the eight files under
+data/raw/: the five original IHME archive ZIPs exactly as downloaded, plus
+three CSV exports with English value labels (A_ASR_1990_2023.csv,
+B_age_sex_1990_2023.csv, C_Population_1990_2023.csv) that are label-normalized
+versions of three of the archives (row counts and all values identical).
+
+[1] GBD 2023 - Export A (A_ASR_1990_2023.csv / IHME-GBD_2023_DATA-cbf696fc-1.zip):
+    age-standardized annual rate series
+    GBD round: 2023
+    Measure:   Incidence; Prevalence; Deaths; DALYs
+    Cause:     Non-melanoma skin cancer > Squamous-cell carcinoma
+               (level-4 cause nested under NMSC; ICD-10 C44)
+    Location:  China; Global
+    Year:      All years, 1990-2023
+    Age:       Age-standardized
+    Sex:       Both; Male; Female
+    Metric:    Rate (per 100,000) only - no Number metric in this export
+
+[2] GBD 2023 - Export B (B_age_sex_1990_2023.csv / IHME-GBD_2023_DATA-fc1ffd6d-1.zip):
+    age-sex counts and rates
+    GBD round: 2023
+    Measure:   Incidence; Prevalence; Deaths; DALYs
+    Cause:     Non-melanoma skin cancer > Squamous-cell carcinoma
+    Location:  China; Global
+    Year:      All years, 1990-2023
+    Age:       The 20 five-year age groups as labelled by the tool
+               (<5 years, 5-9 years, ..., 90-94 years, 95+ years), plus
+               Age-standardized rows; no All-ages rows in this export
+    Sex:       Both; Male; Female
+    Metric:    Number; Rate (per 100,000)
+
+[3] GBD 2023 - Population (C_Population_1990_2023.csv / IHME-GBD_2023_DATA-670c8efe-1.zip)
+    GBD round: 2023
+    Measure:   Population
+    Location:  China only
+    Year:      All years, 1990-2023
+    Age:       The 20 five-year age groups plus the All-ages aggregate row
+    Sex:       Both; Male; Female
+    Metric:    Number
+    Note:      decomposition denominator, directly downloaded; the population
+               is NOT back-calculated from counts and rates.
+
+[4] GBD 2023 - YLL/YLD split (IHME-GBD_2023_DATA-71a8ec3f-1.zip)
+    Measure:   YLLs (Years of Life Lost); YLDs (Years Lived with Disability)
+    Cause:     Non-melanoma skin cancer > Squamous-cell carcinoma
+    Location:  China; Year: 1990-2023; Age: All ages only
+    Sex:       Both; Metric: Number; Rate
+
+[5] GBD 2021 - cross-cycle comparison (IHME-GBD_2021_DATA-9f7ebc48-1.zip)
+    GBD round: 2021
+    Measure:   Incidence; Prevalence; Deaths; DALYs (Disability-Adjusted
+               Life Years)
+    Cause:     Non-melanoma skin cancer (squamous-cell carcinoma)
+    Location:  China; Global
+    Year:      All years, 1990-2021
+    Age:       All ages
+    Sex:       Both
+    Metric:    Number; Rate
+    Note:      used solely for the cross-cycle sensitivity comparison of the
+               2011-2016 fluctuation (Fig 4; five common reporting years
+               1990, 2010, 2015, 2019, 2021); not an input to any primary
+               estimate.
+
+Cause-hierarchy note: within GBD 2023, NMSC (ICD-10 C44) is a level-3 cause;
+squamous-cell carcinoma and basal-cell carcinoma are separate level-4 causes
+under it. SCC is estimated for incidence and mortality; BCC is estimated for
+incidence and other nonfatal outcomes but not mortality (eTable 4).

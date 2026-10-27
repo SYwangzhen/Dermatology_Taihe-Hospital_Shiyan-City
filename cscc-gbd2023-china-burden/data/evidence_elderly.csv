@@ -1,0 +1,25 @@
+﻿measure,sex,age_band,year,cases_over65,total_same_sex,percent
+Incidence,Both sexes,>=65,1990,4815,13769,35.0
+Incidence,Both sexes,>=70,1990,3388,13769,24.6
+Incidence,Both sexes,>=65,2023,24640,44505,55.4
+Incidence,Both sexes,>=70,2023,19148,44505,43.0
+Incidence,Male,>=65,1990,2524,6939,36.4
+Incidence,Male,>=70,1990,1732,6939,25.0
+Incidence,Male,>=65,2023,12913,22660,57.0
+Incidence,Male,>=70,2023,9876,22660,43.6
+Incidence,Female,>=65,1990,2291,6830,33.5
+Incidence,Female,>=70,1990,1656,6830,24.2
+Incidence,Female,>=65,2023,11727,21845,53.7
+Incidence,Female,>=70,2023,9272,21845,42.4
+Deaths,Both sexes,>=65,1990,3250,5586,58.2
+Deaths,Both sexes,>=70,1990,2267,5586,40.6
+Deaths,Both sexes,>=65,2023,11467,14855,77.2
+Deaths,Both sexes,>=70,2023,9424,14855,63.4
+Deaths,Male,>=65,1990,1820,2968,61.3
+Deaths,Male,>=70,1990,1214,2968,40.9
+Deaths,Male,>=65,2023,6045,7837,77.1
+Deaths,Male,>=70,2023,4770,7837,60.9
+Deaths,Female,>=65,1990,1430,2618,54.6
+Deaths,Female,>=70,1990,1052,2618,40.2
+Deaths,Female,>=65,2023,5422,7019,77.2
+Deaths,Female,>=70,2023,4654,7019,66.3

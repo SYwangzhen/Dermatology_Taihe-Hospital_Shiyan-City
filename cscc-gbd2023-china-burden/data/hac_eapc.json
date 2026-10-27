@@ -1,0 +1,93 @@
+{
+ "spec": "Newey-West HAC, Bartlett kernel, no prewhitening, no finite-sample correction; prespecified lag = floor(4*(T/100)^(2/9)) = 3 (T=34); lags 2 and 5 as sensitivity",
+ "results": [
+  {
+   "measure": "Incidence",
+   "eapc": 2.78,
+   "ols_ci": [
+    1.72,
+    3.85
+   ],
+   "nw_lag2_ci": [
+    1.09,
+    4.5
+   ],
+   "nw_lag3_ci": [
+    0.95,
+    4.64
+   ],
+   "nw_lag3_p": 0.003,
+   "nw_lag5_ci": [
+    0.86,
+    4.73
+   ],
+   "durbin_watson": 0.14
+  },
+  {
+   "measure": "Prevalence",
+   "eapc": 3.87,
+   "ols_ci": [
+    2.57,
+    5.19
+   ],
+   "nw_lag2_ci": [
+    1.75,
+    6.04
+   ],
+   "nw_lag3_ci": [
+    1.57,
+    6.23
+   ],
+   "nw_lag3_p": 0.001,
+   "nw_lag5_ci": [
+    1.45,
+    6.35
+   ],
+   "durbin_watson": 0.13
+  },
+  {
+   "measure": "Deaths",
+   "eapc": 0.05,
+   "ols_ci": [
+    -0.19,
+    0.28
+   ],
+   "nw_lag2_ci": [
+    -0.31,
+    0.41
+   ],
+   "nw_lag3_ci": [
+    -0.35,
+    0.44
+   ],
+   "nw_lag3_p": 0.821,
+   "nw_lag5_ci": [
+    -0.39,
+    0.48
+   ],
+   "durbin_watson": 0.2
+  },
+  {
+   "measure": "DALY rate",
+   "eapc": -0.4,
+   "ols_ci": [
+    -0.62,
+    -0.18
+   ],
+   "nw_lag2_ci": [
+    -0.74,
+    -0.06
+   ],
+   "nw_lag3_ci": [
+    -0.77,
+    -0.02
+   ],
+   "nw_lag3_p": 0.038,
+   "nw_lag5_ci": [
+    -0.81,
+    0.01
+   ],
+   "durbin_watson": 0.2
+  }
+ ]
+}

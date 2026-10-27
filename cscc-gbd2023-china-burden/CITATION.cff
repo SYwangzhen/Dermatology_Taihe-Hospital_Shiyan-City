@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use these data or this code, please cite the article and this repository."
+title: "Cutaneous squamous cell carcinoma in China, 1990-2023: a Global Burden of Disease 2023 analysis - data and code"
+abstract: >-
+  GBD 2023 analysis of cutaneous squamous-cell-carcinoma burden in China
+  (1990-2023): Newey-West autocorrelation-robust trend testing, Das Gupta
+  decomposition of case growth into population growth, population ageing and
+  epidemiological change, age-sex patterns, mortality-to-incidence comparison
+  and a GBD 2021 vs 2023 cross-cycle sensitivity comparison. Includes the
+  machine-readable result tables, the R/Python pipeline, the archived GBD
+  download parameters and the final manuscript figures.
+authors:
+  - family-names: Wang
+    given-names: Zhen
+    affiliation: "Department of Dermatology, Taihe Hospital, Hubei University of Medicine, Shiyan 442000, Hubei, China"
+    orcid: "https://orcid.org/0009-0006-4389-7673"
+  - family-names: Wang
+    given-names: Cangyu
+    affiliation: "Faculty of Medicine, Technische Universität Dresden, 01307 Dresden, Germany"
+  - family-names: Jing
+    given-names: Haixia
+    affiliation: "Department of Dermatology, Taihe Hospital, Hubei University of Medicine, Shiyan 442000, Hubei, China"
+  - family-names: Wang
+    given-names: Heng
+    affiliation: "Department of Dermatology, Taihe Hospital, Hubei University of Medicine, Shiyan 442000, Hubei, China"
+  - family-names: Li
+    given-names: Shukang
+    affiliation: "Department of Dermatology, Taihe Hospital, Hubei University of Medicine, Shiyan 442000, Hubei, China"
+version: 1.0.0
+date-released: "2026-10-27"
+license: MIT
+repository-code: "https://github.com/SYwangzhen/Dermatology_Taihe-Hospital_Shiyan-City"
+keywords:
+  - cutaneous squamous cell carcinoma
+  - Global Burden of Disease
+  - GBD 2023
+  - China
+  - skin cancer epidemiology
+  - Das Gupta decomposition
+  - Newey-West

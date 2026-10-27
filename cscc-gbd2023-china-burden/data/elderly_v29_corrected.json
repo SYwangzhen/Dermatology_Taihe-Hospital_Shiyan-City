@@ -1,0 +1,58 @@
+{
+ "Incidence|total": [
+  13769,
+  44505
+ ],
+ "Incidence|Both|>=65": [
+  4815,
+  24640
+ ],
+ "Incidence|Both|>=70": [
+  3388,
+  19148
+ ],
+ "Incidence|Male|>=65": [
+  2524,
+  12913
+ ],
+ "Incidence|Male|>=70": [
+  1732,
+  9876
+ ],
+ "Incidence|Female|>=65": [
+  2291,
+  11727
+ ],
+ "Incidence|Female|>=70": [
+  1656,
+  9272
+ ],
+ "Deaths|total": [
+  5586,
+  14855
+ ],
+ "Deaths|Both|>=65": [
+  3250,
+  11467
+ ],
+ "Deaths|Both|>=70": [
+  2267,
+  9424
+ ],
+ "Deaths|Male|>=65": [
+  1820,
+  6045
+ ],
+ "Deaths|Male|>=70": [
+  1214,
+  4770
+ ],
+ "Deaths|Female|>=65": [
+  1430,
+  5422
+ ],
+ "Deaths|Female|>=70": [
+  1052,
+  4654
+ ]
+}

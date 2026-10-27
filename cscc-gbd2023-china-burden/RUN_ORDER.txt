@@ -1,0 +1,52 @@
+Run order and software versions
+================================
+Software: R 4.6.1 (base R only; openxlsx optional for spreadsheet export);
+Python 3.13 (NumPy + Matplotlib).
+
+Single entry point (real data):
+  cd code && Rscript run_all.R --real
+  -> runs the R pipeline, asserts decomposition closure, then invokes
+     reanalysis_v23.py, hac_eapc.py, evidence_tables.py and
+     make_figures_final.py (set PYTHON env var if the interpreter is not
+     on PATH).
+
+R pipeline (run_all.R, in order):
+  00_config.R        paths, constants, raw-file locations
+  01_load_clean.R    reading, label normalization; populations from the
+                     directly downloaded GBD 2023 Population export
+                     (C_Population_1990_2023.csv); uniqueness and completeness
+                     assertions; GBD Both-sexes rows retained and checked
+                     against Male+Female (< 0.1%)
+  02_eapc_trend.R    descriptive statistics and EAPC
+  03_joinpoint.R     segmented regression (eTable 1); AAPC weighted by the
+                     actual number of annual intervals each segment spans
+                     (33 annual intervals between 1990 and 2023, not the
+                     34 observations)
+  04_apc.R           birth-cohort layering (eTable 2)
+  05_decomposition.R interval-level three-factor decomposition (six-permutation
+                     equal-weight average; equivalent to the closed form in
+                     eMethods 4)
+  06_figures.R       Figure 1 (China, two panels, 95% UI bands, 2011-2016
+                     shading) and Research-Letter spare figure
+  07_tables.R        Table 1 and Joinpoint summary tables
+  (run_all.R also writes APC_cohort_summary.csv and
+   Decomposition_summary.csv directly, so the single entry point regenerates
+   every declared output; 08_extract_supp.R remains available standalone)
+  run_all.R          single entry point + decomposition-closure assertions
+
+Python stage (invoked by run_all.R):
+  reanalysis_v23.py     direct-population Das Gupta decomposition (source of
+                        eTable 3 and Figure 2 data), GBD 2021-vs-2023
+                        cross-cycle comparison (source of Fig 4 data), YLL/YLD
+                        split; writes data/processed/reanalysis_v23/
+  hac_eapc.py           Newey-West (HAC, Bartlett kernel, lag 3 rule-based;
+                        lag 2/5 sensitivity) - lag-3 and lag-5 EAPC intervals
+                        reported in Results and eMethods 3
+  evidence_tables.py    eTable 5 (>=65/>=70 burden incl. the 95+ group), counts
+                        at age >=65, mortality-to-incidence ratios; 26
+                        assertions against the manuscript/eTables
+  make_figures_final.py final Figures 2-4 from pipeline outputs (asserts
+                        against eTable 3, age-group claims, cross-cycle series)
+
+Demo mode: Rscript run_all.R --demo runs the whole pipeline on synthetic data
+(demo_data.R); outputs carry a _DEMO suffix and are not citable.
