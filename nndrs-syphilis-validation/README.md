@@ -1,11 +1,11 @@
-# Reconciling modelled and notified syphilis burden in China, 2004–2025
+# Systematic divergence between modeled and notified syphilis burden, China, 2004–2025
 
 **Parallel-series triangulation of a global model against a national notification system**
 
 This repository is the data and code record for the manuscript:
 
-> Wang Z, Wang C, Jing H, Tang Z. *Reconciling modelled and notified syphilis burden in
-> China: a parallel-series triangulation, 2004–2025.* Manuscript, 2026.
+> Wang Z, Wang C, Jing H, Tang Z. *Systematic divergence between modeled and notified
+> syphilis burden, China, 2004–2025.* Manuscript, 2026.
 
 Department of Dermatology, Taihe Hospital, the Affiliated Hospital of Hubei University of
 Medicine, Shiyan 442000, Hubei, China. Correspondence: Zhen Wang (sywz1998@163.com).
@@ -149,8 +149,8 @@ Cite IHME GBD 2023 whenever these estimates are reused.
 
 - **Code** (`code/`): MIT Licence, see [`LICENSE`](LICENSE).
 - **Data** (`data/`, `raw/`, `processed/`, `tables/`): CC BY 4.0. Attribution: Wang Z,
-  Wang C, Jing H, Tang Z. *Reconciling modelled and notified syphilis burden in China,
-  2004–2025* (repository), 2026.
+  Wang C, Jing H, Tang Z. *Systematic divergence between modeled and notified syphilis
+  burden, China, 2004–2025* (repository), 2026.
 - GBD 2023 estimates remain subject to the IHME terms of use and must be cited to IHME.
 
 Please cite the article when it is published; until then, cite this repository by its URL.
