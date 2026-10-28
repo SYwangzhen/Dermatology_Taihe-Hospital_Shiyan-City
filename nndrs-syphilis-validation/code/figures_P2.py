@@ -110,6 +110,11 @@ pop = pd.read_csv(os.path.join(PROC, 'china_population_derived.csv'), encoding='
 a_rate = ann[ann['系列'].str.startswith('A')][['年份', '报告发病率(每10万)']].dropna()
 a_rate = a_rate.groupby('年份', as_index=False).first().sort_values('年份')
 
+# GBD 95% UI（S3 的 All ages 行；GBD 官方给的是不确定区间，不是置信区间）
+_s3 = pd.read_csv(os.path.join(BASE, 'data', 'S3_gbd_china_age_sex_1990_2023.csv'),
+                  encoding='utf-8-sig')
+UI = _s3[(_s3.sex_name == 'Both') & (_s3.age_name == 'All ages')].set_index('year').sort_index()
+
 Q = pd.DataFrame({'year': [2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021],
                   'under': [1.29, 1.08, 1.02, 0.67, 2.04, 0.50, 0.51, 0.50, 0.33],
                   'acc':   [93.87, 92.23, 95.24, 96.04, 95.77, 97.63, 98.25, 98.97, 98.73]})
@@ -123,7 +128,10 @@ gs = gridspec.GridSpec(2, 2, figure=fig, height_ratios=[1.0, 0.92], hspace=0.52,
 # ---- A: counts, log axis ----
 ax = fig.add_subplot(gs[0, 0])
 ax.axvspan(1988.6, 2003.5, color=C['band'], zorder=0)
-ax.plot(rat.year, rat.gbd_cases, '-', color=C['gbd'], lw=1.3, label='GBD modelled incident infections')
+ax.fill_between(UI.index, UI.cases_lower, UI.cases_upper, color=C['gbd'], alpha=0.16,
+                lw=0, zorder=1, label='GBD 95% uncertainty interval')
+ax.plot(rat.year, rat.gbd_cases, '-', color=C['gbd'], lw=1.3, zorder=2,
+        label='GBD modelled incident infections')
 a = rat.dropna(subset=['nndrs_a'])
 ax.plot(a.year, a.nndrs_a, '-o', color=C['A'], lw=1.2, ms=2.4, mfc='white', mew=0.7,
         label='NNDRS series A (onset date)')
@@ -154,10 +162,12 @@ ax.text(1989.3, 1.15e5, 'pre-2004 reporting platform\n(aggregate totals only)', 
 
 # ---- B: rates ----
 ax = fig.add_subplot(gs[0, 1])
-ax.plot(gbd.year, gbd.gbd_asir_both, '-', color=C['gbd'], lw=1.3,
+ax.fill_between(UI.index, UI.rate_lower, UI.rate_upper, color=C['gbd'], alpha=0.16, lw=0,
+                zorder=1, label='GBD 95% uncertainty interval')
+ax.plot(gbd.year, gbd.gbd_asir_both, '-', color=C['gbd'], lw=1.3, zorder=2,
         label='GBD age-standardised rate (model)')
 ax.plot(a_rate['年份'], a_rate['报告发病率(每10万)'], '-o', color=C['A'], lw=1.2, ms=2.4,
-        mfc='white', mew=0.7, label='NNDRS notified rate (crude)')
+        mfc='white', mew=0.7, label='NNDRS notified rate (crude)', zorder=3)
 ax.set_xlim(1988.6, 2026.4)
 ax.set_ylim(0, 218)
 ax.set_xticks(range(1990, 2026, 5))

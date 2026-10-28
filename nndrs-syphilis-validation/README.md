@@ -88,6 +88,8 @@ files: [`docs/data_dictionary.md`](docs/data_dictionary.md).
 | `figures/Fig3` | Trend criterion: latent share; early syphilis notifications and joinpoint segments |
 | `figures/Fig4` | Structure criterion (sex and age): sex-specific rates, male-to-female ratio, age-specific model against notifications, ratio by age |
 | `figures/Fig5` | Structure criterion (province): Gini, coefficient of variation, max/min ratio, rate-rate scatter, rank shift |
+| `figures/Fig6` | Composition of the rise: Das Gupta decomposition (population, ageing, reporting rate); provincial EAPC before and after 2019 |
+| `figures/FigA1` | Province-year notified incidence rate, heat panel (map-free alternative) |
 
 Vector PDFs are the versions intended for print; PNG files are 300 dpi at 154–157 mm width.
 
