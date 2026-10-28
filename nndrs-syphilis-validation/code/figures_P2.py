@@ -27,10 +27,15 @@ RAW = os.path.join(BASE, 'raw')
 FIG = os.path.join(BASE, 'figures')
 os.makedirs(FIG, exist_ok=True)
 
-# ── Lancet 中线小数点 ────────────────────────────────────────
+# ── 小数点样式：默认标准句点（EID/AMA 等要求 ASCII 句点）；
+#    设环境变量 FIG_MIDDOT=1 可切回 Lancet 风格的中点 ·（U+00B7）
+MIDDOT = os.environ.get('FIG_MIDDOT') == '1'
+
+
 def D(s):
-    """把数字小数点替换为中线点（U+00B7）。"""
-    return re.sub(r'(?<=\d)\.(?=\d)', '\u00b7', str(s))
+    """Render the decimal separator for the target journal."""
+    s = str(s)
+    return re.sub(r'(?<=\d)\.(?=\d)', '\u00b7', s) if MIDDOT else s
 
 
 def dotfmt(fmt='g'):
@@ -220,7 +225,7 @@ ax.annotate(D('+61%'), xy=(2023.72, 790), xytext=(2022.5, 2900), fontsize=6.2, c
             ha='center', va='center',
             arrowprops=dict(arrowstyle='-', lw=0.6, color=C['B2'], shrinkA=2, shrinkB=1))
 ax.text(2013.4, 10200, D('B1: −96.7% (2012 → 2025)'), fontsize=6.2, color='#333333', ha='left')
-ax.text(2015.3, 7250, D('GBD <5-y deaths per notified case, 2024:\n1·59 (B1) vs 0·99 (B2)'),
+ax.text(2015.3, 7250, D('GBD <5-y deaths per notified case, 2024:\n1.59 (B1) vs 0.99 (B2)'),
         fontsize=6.0, color='#333333', ha='left', va='center', linespacing=1.45)
 save(fig, 'Fig1')
 plt.close(fig)

@@ -30,9 +30,15 @@ GBDRAWA = os.environ.get('GBD_AGE_SEX_CSV',
                          os.path.join(BASE, 'raw', 'B_age_sex_1990_2023.csv'))
 os.makedirs(FIG, exist_ok=True)
 
-# ── Lancet 中线小数点 ────────────────────────────────────────
+# ── 小数点样式：默认标准句点（EID/AMA 等要求 ASCII 句点）；
+#    设环境变量 FIG_MIDDOT=1 可切回 Lancet 风格的中点 ·（U+00B7）
+MIDDOT = os.environ.get('FIG_MIDDOT') == '1'
+
+
 def D(s):
-    return re.sub(r'(?<=\d)\.(?=\d)', '\u00b7', str(s))
+    """Render the decimal separator for the target journal."""
+    s = str(s)
+    return re.sub(r'(?<=\d)\.(?=\d)', '\u00b7', s) if MIDDOT else s
 
 
 def dotfmt(fmt='g'):
