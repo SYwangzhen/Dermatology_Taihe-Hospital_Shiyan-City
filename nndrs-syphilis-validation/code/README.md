@@ -17,6 +17,9 @@ directory, while the remaining scripts resolve all paths against the repository 
 | 6 | `build_supplementary.py` | `raw/`, `processed/`, `tables/`, GBD extract | `data/S1`–`S16` (the fifteen released datasets) and the supplementary appendix |
 | 7 | `figures_P2.py` | `processed/`, `tables/` | `figures/Fig1`–`Fig3` (PDF + 300 dpi PNG) |
 | 8 | `figures_P3.py` | `processed/`, `tables/`, GBD extract | `figures/Fig4`, `figures/Fig5` |
+| 9 | `figures_P4.py` | `tables/` | `figures/Fig6`, `figures/FigA1` |
+| 10 | `gbd_addon.py` | `data/` | `tables/Table8_ui_vs_notified.csv`, `Table9_decomposition.csv`, `Table10_province_eapc.csv` |
+| 11 | `tb_portability.py` | none (published aggregates embedded in the script) | No files: prints the three criteria for tuberculosis, the portability check in Appendix A9 |
 
 ## Verification scripts (no output files)
 

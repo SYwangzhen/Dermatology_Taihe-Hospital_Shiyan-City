@@ -66,7 +66,7 @@ nndrs-syphilis-validation/
 ├── raw/           # parsed official series (inputs to the table build)
 ├── processed/     # intermediate series (model-to-notification ratios, ranks, Gini)
 ├── tables/        # Table 1–7 underlying the manuscript
-├── figures/       # Figures 1–5 (vector PDF + 300 dpi PNG)
+├── figures/       # Figures 1–6 and A1 (vector PDF + 300 dpi PNG)
 ├── code/          # retrieval, parsing, analysis and figure scripts (see code/README.md)
 └── docs/          # data dictionary, GBD query specification, source index
 ```
@@ -92,6 +92,21 @@ files: [`docs/data_dictionary.md`](docs/data_dictionary.md).
 | `figures/FigA1` | Province-year notified incidence rate, heat panel (map-free alternative) |
 
 Vector PDFs are the versions intended for print; PNG files are 300 dpi at 154–157 mm width.
+
+---
+
+## Portability check (Appendix A9)
+
+The three criteria were applied a second time to tuberculosis in China, using only
+published aggregates: WHO modelled incidence (Global Tuberculosis Report 2025) against
+national pulmonary-tuberculosis notifications. `code/tb_portability.py` reproduces every
+number in Appendix A9 and prints the three verdicts. The point of the exercise is that the
+framework returns a *different* verdict for a different system — the trend criterion is met
+for tuberculosis and is not met for syphilis — so it discriminates rather than condemns.
+
+One caveat is stated in the Appendix and worth repeating here: WHO's tuberculosis estimates
+for China are calibrated on notification data and on case-detection assumptions, so the two
+streams are not independent in the way the GBD model and the notification system are.
 
 ---
 
